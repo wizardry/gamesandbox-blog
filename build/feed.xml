@@ -5,10 +5,62 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-12-15T00:00:00+09:00</updated>
+  <updated>2014-12-18T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>disgaiaMemo9</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/18/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/18/disgaia/</id>
+    <published>2014-12-18T00:00:00+09:00</published>
+    <updated>2014-12-18T19:23:51+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;18日までにできたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;サルバトーレ育成中
+    &lt;ul&gt;
+      &lt;li&gt;転生ボーナス100くらいまできた。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;武器強化
+    &lt;ul&gt;
+      &lt;li&gt;とりあえず強化
+        &lt;ul&gt;
+          &lt;li&gt;拳&lt;/li&gt;
+          &lt;li&gt;杖&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;準最強取得済
+        &lt;ul&gt;
+          &lt;li&gt;サタンフォース&lt;/li&gt;
+          &lt;li&gt;魔剣良綱&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ハダシックス欲しい&lt;/li&gt;
+  &lt;li&gt;邪気眼を最低10個欲しい&lt;/li&gt;
+  &lt;li&gt;サルバトーレと並行して育成するキャラ
+    &lt;ul&gt;
+      &lt;li&gt;候補はアクターレとラズベリル&lt;/li&gt;
+      &lt;li&gt;また、キャラ界無しでウッドゴーレムと猫族&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;界族待ち&lt;/li&gt;
+  &lt;li&gt;トロフィー部屋&lt;/li&gt;
+  &lt;li&gt;アイテム界アクターレ&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>disgaiaMemo8</title>
     <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/15/disgaia/"/>
@@ -306,38 +358,6 @@
       &lt;li&gt;その次修羅&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>disgaiaMemo3</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/07/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/07/disgaia/</id>
-    <published>2014-12-07T00:00:00+09:00</published>
-    <updated>2014-12-18T16:53:39+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;12/7までにできたこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;ストーリー終了&lt;/li&gt;
-  &lt;li&gt;逆海賊環境&lt;/li&gt;
-  &lt;li&gt;10段階強化練武4レベリング環境&lt;/li&gt;
-  &lt;li&gt;キャラ解放（途中）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;魔物キャラ全解放&lt;/li&gt;
-  &lt;li&gt;倉庫アイテム作成&lt;/li&gt;
-  &lt;li&gt;逆界族
-    &lt;ul&gt;
-      &lt;li&gt;EXP屋&lt;/li&gt;
-      &lt;li&gt;ステ系&lt;/li&gt;
-      &lt;li&gt;マスタリー屋&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>

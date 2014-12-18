@@ -1,7 +1,7 @@
 ---
 title: disgaiaMemo9
 titleJp: ディスガイア3備忘録9
-date: 2014-12-15
+date: 2014-12-18
 tags: TvGame
 tagsJp: TVゲーム
 category: disgaia3

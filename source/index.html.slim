@@ -1,0 +1,38 @@
+---
+pageable: true
+per_page: 3
+---
+
+.indexPage
+  - if paginate
+    .pagerWrap
+      - if paginate && num_pages > 1 
+        p.pageNum Page #{page_number}  of #{num_pages}
+
+        - if next_page
+          p.next = link_to 'Next', next_page
+        - if prev_page
+          p.prev = link_to 'Prev', prev_page
+
+  - page_articles.each_with_index do |article, i| 
+    .sectionBlock
+      .sectionHeader
+        h2.articleTitle = article.data.titleJp
+        p.infoRead 
+          span.postDate = article.date.strftime('投稿日：%Y年 %m月 %d日')
+          span.postCategory = 'カテゴリ ： ' + article.data.categoryJp
+          span.postTags = 'タグ ： ' + article.data.tagsJp
+      .sectionContent 
+        / p.sectionBody = article.body
+        .sectionBody.blogBody
+          = article.summary(200,'...')
+          p.readMore = link_to '続きを読む', article
+  - if paginate
+    .pagerWrap
+      - if paginate && num_pages > 1 
+        p.pageNum Page #{page_number}  of #{num_pages}
+
+        - if next_page
+          p.next = link_to 'Next', next_page
+        - if prev_page
+          p.prev = link_to 'Prev', prev_page

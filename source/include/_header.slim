@@ -1,0 +1,11 @@
+.headerWrap
+	header
+		h1 gamesandbox
+		p.read このblogはTwitterID @wiz_rein の備忘録やメモに使用されています。
+		nav
+			ul
+				- $menu = [{title:"top",link:"/"},{title:"about",link:"/about"},{title:"link",link:"/link"}]
+				- $menu.each do |nav|
+					li
+						= link_to nav[:title],nav[:link]
+					

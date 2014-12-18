@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-12-15T00:00:00+09:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>disgaiaMemo8</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/15/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/15/disgaia/</id>
+    <published>2014-12-15T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:30+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;15日までにできたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;邪気眼メガネ99F LvMAX化&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;サルバトーレ育成&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>disgaiaMemo7</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/14/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/14/disgaia/</id>
+    <published>2014-12-14T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:49+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/14までにできたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;修羅解放&lt;/li&gt;
+  &lt;li&gt;現世バール撃破&lt;/li&gt;
+  &lt;li&gt;キャラ育成開始&lt;/li&gt;
+  &lt;li&gt;邪気眼メガネ育成&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;装備強化
+    &lt;ul&gt;
+      &lt;li&gt;邪気眼*1&lt;/li&gt;
+      &lt;li&gt;ハダシックス*2&lt;/li&gt;
+      &lt;li&gt;武器
+        &lt;ul&gt;
+          &lt;li&gt;アルムテン→コスモインフィニティ&lt;/li&gt;
+          &lt;li&gt;★魔剣良綱→バールソード&lt;/li&gt;
+          &lt;li&gt;ドリルエンペラー→フレアフェニックス&lt;/li&gt;
+          &lt;li&gt;ラブアーチェリー→レイディアント&lt;/li&gt;
+          &lt;li&gt;メギドシューター→インヴィシブル&lt;/li&gt;
+          &lt;li&gt;アポカリプス→グランマッドネス&lt;/li&gt;
+          &lt;li&gt;全知全能の杖→キーオブザイオン&lt;/li&gt;
+          &lt;li&gt;★サタンフォース→バールボディ&lt;/li&gt;
+          &lt;li&gt;
+            &lt;p&gt;アスタロス祭祀書→バハムートノート&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li&gt;超合金ロボスーツ→反物質フィールド&lt;/li&gt;
+          &lt;li&gt;アルカディア→トラペゾヘドロン&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;イノセント決定
+    &lt;ul&gt;
+      &lt;li&gt;ATK、INT、HIT、SPD&lt;/li&gt;
+      &lt;li&gt;クリティカル屋、ガードマスタリー、ｘｘマスタリー&lt;/li&gt;
+      &lt;li&gt;育成途中用のEXP屋&lt;em&gt;32、マナ屋&lt;/em&gt;32、SP屋&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;キャラ強化
+    &lt;ul&gt;
+      &lt;li&gt;転生 総Lv199998&lt;/li&gt;
+      &lt;li&gt;マビ厳選&lt;/li&gt;
+      &lt;li&gt;キャラ界強化&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;強化したいキャラ順
+    &lt;ul&gt;
+      &lt;li&gt;固定
+        &lt;ul&gt;
+          &lt;li&gt;サルバトーレ&lt;/li&gt;
+          &lt;li&gt;ラズベリル&lt;/li&gt;
+          &lt;li&gt;アサギ&lt;/li&gt;
+          &lt;li&gt;アクターレ&lt;/li&gt;
+          &lt;li&gt;サファイア&lt;/li&gt;
+          &lt;li&gt;きょうこ&lt;/li&gt;
+          &lt;li&gt;あすか&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;汎用
+        &lt;ul&gt;
+          &lt;li&gt;忍者女&lt;/li&gt;
+          &lt;li&gt;アーチャー女&lt;/li&gt;
+          &lt;li&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;必要なキャラ順
+    &lt;ul&gt;
+      &lt;li&gt;盗賊&lt;/li&gt;
+      &lt;li&gt;スライム*3&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>disgaiaMemo6</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/10/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/10/disgaia/</id>
+    <published>2014-12-10T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:48+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/10にできたこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;逆界族&lt;/li&gt;
+  &lt;li&gt;倉庫作成（Fまで）&lt;/li&gt;
+  &lt;li&gt;学級会少し進めた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;逆界族ユニット
+    &lt;ul&gt;
+      &lt;li&gt;靴とMv付き武器の強化&lt;/li&gt;
+      &lt;li&gt;キャラの強化
+        &lt;ul&gt;
+          &lt;li&gt;→Mob 投げ8*3匹　+ 3～6マス各1匹 Mv20～&lt;/li&gt;
+          &lt;li&gt;→Hum 投げ5マス～ Mv20～ *4人&lt;/li&gt;
+          &lt;li&gt;→Hum 投げ8マス*4人
+  ※ とりあえず出撃人数分の靴とキャラ界強化が必須&lt;/li&gt;
+          &lt;li&gt;minで10人*3＝30個の靴と10個の武器&lt;/li&gt;
+          &lt;li&gt;欲しい技,マビ
+            &lt;ul&gt;
+              &lt;li&gt;スカイハイorMv3&lt;/li&gt;
+              &lt;li&gt;魔法：オメガスター　人型はビッグバンか弓&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;キャラ考察
+        &lt;ul&gt;
+          &lt;li&gt;覆面ヒーロー
+            &lt;ul&gt;
+              &lt;li&gt;デフォでスカイハイ&lt;/li&gt;
+              &lt;li&gt;投げ性能が低い&lt;/li&gt;
+              &lt;li&gt;Mv高め&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;重騎士
+            &lt;ul&gt;
+              &lt;li&gt;投げ性能高い&lt;/li&gt;
+              &lt;li&gt;Mv低め&lt;/li&gt;
+              &lt;li&gt;堅い&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;エリンギャー
+            &lt;ul&gt;
+              &lt;li&gt;レシーブ6&lt;/li&gt;
+              &lt;li&gt;魔ビもそこそこ良い&lt;/li&gt;
+              &lt;li&gt;HP高い&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;スライム
+            &lt;ul&gt;
+              &lt;li&gt;最長レシーブ&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>disgaiaMemo5</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/09/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/09/disgaia/</id>
+    <published>2014-12-09T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:45+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/09にできたこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;人型キャラ魔人以外全開放&lt;/li&gt;
+  &lt;li&gt;倉庫幾つか作成&lt;/li&gt;
+  &lt;li&gt;学級会環境&lt;/li&gt;
+  &lt;li&gt;幾つか逆界族&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;倉庫は逆界族済にしたい&lt;/li&gt;
+  &lt;li&gt;逆界族用ユニットの作成
+    &lt;ul&gt;
+      &lt;li&gt;3Tで8体のイノセント+αを回収することを想定。（人型4体いれば2Tかければ回収可能。3体だと3T）=1Tで対岸までいけなければいけない
+        &lt;ul&gt;
+          &lt;li&gt;Mｖ強化
+            &lt;ul&gt;
+              &lt;li&gt;Mv20前後
+                &lt;ul&gt;
+                  &lt;li&gt;元5+武器4+防具3*3+キャラ界2+マビ3 ＝ 22&lt;/li&gt;
+                  &lt;li&gt;魔法持ち+武器A+投げ強化+&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;一部魔物と人型のみ投げ強化&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;学級会で使うキャラ
+    &lt;ul&gt;
+      &lt;li&gt;遠距離通常攻撃持ち&lt;/li&gt;
+      &lt;li&gt;斧的性or魔法広範囲でネコババキャラを作る&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="a"&gt;武器A&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;拳 忍びの手甲&lt;/li&gt;
+  &lt;li&gt;拳 クロスカウンター&lt;/li&gt;
+  &lt;li&gt;拳 三年殺し（現世アイテム）&lt;/li&gt;
+  &lt;li&gt;拳 黄金の右（修羅）&lt;/li&gt;
+  &lt;li&gt;拳 コスモインフィニティ（+2だが最強武器）&lt;/li&gt;
+  &lt;li&gt;杖 ラプソディ&lt;/li&gt;
+  &lt;li&gt;杖 ファンタズマルワンド&lt;/li&gt;
+  &lt;li&gt;杖 オルフェウスロッド&lt;/li&gt;
+  &lt;li&gt;杖 フォルテッシモ&lt;/li&gt;
+  &lt;li&gt;杖 キーオブザイオン&lt;/li&gt;
+  &lt;li&gt;魔 タイタンフット&lt;/li&gt;
+  &lt;li&gt;魔 狐の九尾（現世アイテム界）&lt;/li&gt;
+  &lt;li&gt;魔 サタンフォース/バールボディ（R39/40）&lt;/li&gt;
+  &lt;li&gt;魔 バジリスク忍法帖&lt;/li&gt;
+  &lt;li&gt;魔 グリフォンタブレット&lt;/li&gt;
+  &lt;li&gt;魔 ワイバーンレポート&lt;/li&gt;
+  &lt;li&gt;魔 フェンリル神話集（現世最強）&lt;/li&gt;
+  &lt;li&gt;魔 アスタロス祭祀書/バハムートノート（R39/40）&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>disgaiaMemo4</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/08/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/08/disgaia/</id>
+    <published>2014-12-08T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:44+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/8にできたこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;魔物キャラ全開放&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;人型キャラ全開放
+    &lt;ul&gt;
+      &lt;li&gt;取り急ぎアクターレで進める。&lt;/li&gt;
+      &lt;li&gt;ウッドゴーレム/ネコの魔チェンジを駆使して次育成準備も兼ねる
+        &lt;ul&gt;
+          &lt;li&gt;ネコ＞ラズベリ＞杖系＞拳系&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;逆界族埋め
+    &lt;ul&gt;
+      &lt;li&gt;人型キャラ解放でレベリングも進む為余裕&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;適宜倉庫アイテム作成&lt;/li&gt;
+  &lt;li&gt;学級会準備
+    &lt;ul&gt;
+      &lt;li&gt;ねこばば&lt;/li&gt;
+      &lt;li&gt;委員会強化&lt;/li&gt;
+      &lt;li&gt;キャラ強化&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;裏面進める
+    &lt;ul&gt;
+      &lt;li&gt;メガネをとりあえず目標&lt;/li&gt;
+      &lt;li&gt;その次修羅&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>disgaiaMemo3</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/07/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/07/disgaia/</id>
+    <published>2014-12-07T00:00:00+09:00</published>
+    <updated>2014-12-18T16:53:39+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/7までにできたこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;ストーリー終了&lt;/li&gt;
+  &lt;li&gt;逆海賊環境&lt;/li&gt;
+  &lt;li&gt;10段階強化練武4レベリング環境&lt;/li&gt;
+  &lt;li&gt;キャラ解放（途中）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;魔物キャラ全解放&lt;/li&gt;
+  &lt;li&gt;倉庫アイテム作成&lt;/li&gt;
+  &lt;li&gt;逆界族
+    &lt;ul&gt;
+      &lt;li&gt;EXP屋&lt;/li&gt;
+      &lt;li&gt;ステ系&lt;/li&gt;
+      &lt;li&gt;マスタリー屋&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+</feed>

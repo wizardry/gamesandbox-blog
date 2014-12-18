@@ -1,0 +1,32 @@
+---
+title: Haml
+titleJp: Hamlテストページ
+date: 1990-01-01
+tags: test
+tagsJp: テスト
+category: test
+categoryJp: テスト
+
+---
+%h1 this Centense is Title
+
+%p This is an example article. You probably want to delete it and write your own articles!
+%ul
+	%li ul list1
+	%li ul list2
+	%li ul list3
+
+
+%p
+	%a(href="http://google.com" class="toLink_google") Google and hasClass
+
+
+%p.hasclass has class p tag
+%p#hasid has id p tag
+
+- val = "valiableTEST"
+
+%p(id="has#{val}") #{val} 変数テスト
+%p 
+	= val
+

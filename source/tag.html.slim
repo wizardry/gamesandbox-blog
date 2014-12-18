@@ -1,0 +1,24 @@
+---
+
+---
+.sectionBlock
+  h1 
+    |タグ：
+    span = articles[0].data.tagsJp
+  
+  h2 タグ一覧
+
+  / - tagsAry = []
+  / - articles.each_with_index do |article, i|
+  /   - tagsAry[i] = {'jp'=> article.data.tagsJp,'en'=> article.tags}
+
+  / - tagsAry.uniq
+  - blog.tags.each_with_index do |tag , i|
+    li = link_to tag[1][0].data.tagsJp,tag_path(tag[0])
+
+
+  ul
+    - articles.each_with_index do |article, i|
+      li 
+        = link_to article.data.titleJp, article 
+        span.postDate = article.date.strftime('投稿日：%Y年 %m月 %d日')

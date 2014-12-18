@@ -1,0 +1,53 @@
+- categories = Array[]
+- blog.articles.each_with_index do |article, i| 
+  - categories[i] = article.data.categoryJp
+
+- categories.uniq!
+
+.sideContents
+	aside
+		.sideBlock.tagsArea
+			h2 タグ
+			.sideInner
+				ol
+					- blog.tags.each do |tag, articles| 
+						li 
+							= link_to articles[0].data.tagsJp, tag_path(tag)
+							|(
+							= articles.size
+							|)
+
+		.sideBlock.CategoriesArea
+			h2 カテゴリ
+			.sideInner
+				ol
+					- categories.each_with_index do |category , i| 
+						li = link_to category , "category.html#anchor#{i}"
+
+
+		.sideBlock.yearsArea
+			h2 年別投稿
+			.sideInner
+				ol
+					- blog.articles.group_by {|a| a.date.year }.each do |year, articles| 
+						li
+							= link_to year, blog_year_path(year)
+							|(
+							= articles.size
+							|)
+		.sideBlock.newArea
+			h2 最近の投稿
+			.sideInner
+				ol
+					- blog.articles[0...10].each do |article| 
+						li
+							span.postTitle = link_to article.data.titleJp , article 
+							span.postDate = article.date.strftime(' - %Y年 %m月 %d日')
+						
+		.sideBlock.linkArea
+			h2 リンク
+			.sideInner
+				h3 制作物
+				ul
+					- data.linkData.link.each do |data|
+						li = link_to data.title , data.link , target: '_blank'

@@ -1,0 +1,29 @@
+---
+layout: layout
+---
+
+- categories = Array[]
+- blog.articles.each_with_index do |article, i| 
+  - categories[i] = article.data.categoryJp
+- categories.uniq!
+
+.sectionBlock.categoryAreann
+  h2 カテゴリ－
+  p カテゴリー一覧
+  nav.categoryList
+    ul
+      - categories.each_with_index do|category , i|
+        li = link_to category, "#anchor#{i}"
+
+  p カテゴリー別記事一覧
+  nav.categoryDetailList
+    - categories.each_with_index do|category , i|
+      .categoryDetailBlock id="anchor#{i}"
+        h3 = category
+        ul
+          - blog.articles.each_with_index do |article, i| 
+            - if ( article.data.categoryJp == category )
+              li = link_to article.data.titleJp,article
+  
+
+

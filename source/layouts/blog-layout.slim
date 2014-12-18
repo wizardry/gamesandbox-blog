@@ -1,0 +1,20 @@
+doctype html
+html
+	head
+		meta charset="utf-8" /
+		meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible" /
+		title gamesandbox#{ ' - ' + current_article.title unless current_article.nil? }
+		== feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" 
+		== partial "include/meta"
+
+	body
+		== partial "include/header"
+		#main.contentsWrap role="main" 
+			.mainContents
+				.blogBody.sectionBlock
+					h1.articleTitle == current_page.data.titleJp
+					== yield 
+
+			== partial "include/sideContent"
+		== partial "include/footer"
+

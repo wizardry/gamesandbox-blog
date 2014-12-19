@@ -5,10 +5,196 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-12-18T00:00:00+09:00</updated>
+  <updated>2014-12-19T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>gfmemo</title>
+    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/19/guitarfreaks/"/>
+    <id>http://blog.url.com/blog/gitadora/2014/12/19/guitarfreaks/</id>
+    <published>2014-12-19T00:00:00+09:00</published>
+    <updated>2014-12-19T12:47:26+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;銀までの整理&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;現在スキル&lt;/td&gt;
+      &lt;td&gt;7478.77&lt;/td&gt;
+      &lt;td&gt;.Avg&lt;/td&gt;
+      &lt;td&gt;149.57&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HOT&lt;/td&gt;
+      &lt;td&gt;3689.23&lt;/td&gt;
+      &lt;td&gt;HOT .Avg&lt;/td&gt;
+      &lt;td&gt;147.56&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OLD&lt;/td&gt;
+      &lt;td&gt;3789.54&lt;/td&gt;
+      &lt;td&gt;OLD .Avg&lt;/td&gt;
+      &lt;td&gt;151.58&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id="section-1"&gt;目標&lt;/h4&gt;
+
+&lt;p&gt;HOT .avg 148
+OLD .avg 152&lt;/p&gt;
+
+&lt;p&gt;HOT枠を +11 上げる,
+OLD枠を +11 上げる&lt;/p&gt;
+
+&lt;p&gt;＝ 銀達成。&lt;/p&gt;
+
+&lt;h4 id="hot"&gt;可能性が高い (HOT)&lt;/h4&gt;
+
+&lt;p&gt;新規対象入りできそうなのがほぼ無い。
+Miss you/サムハ/赤い鈴　などLong分くらい。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cherry EXT-G
+    &lt;ul&gt;
+      &lt;li&gt;150～152&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;冬色 EXT-B
+    &lt;ul&gt;
+      &lt;li&gt;長いのは奇数&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Summer EXT-B
+    &lt;ul&gt;
+      &lt;li&gt;集中力次第&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;家出少年 EXT-G
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jkパラダイス
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;凛花　MAS-B
+    &lt;ul&gt;
+      &lt;li&gt;Gr10前後目指せれば…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;天地動説伝説 EXT-G
+    &lt;ul&gt;
+      &lt;li&gt;紫B以降狙い 92％↑で移行&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ジュピター MAS-G
+    &lt;ul&gt;
+      &lt;li&gt;高速以外のP率上げる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;スプバズ EXT-G
+    &lt;ul&gt;
+      &lt;li&gt;高速までのP率上げる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;トキシック MAS-B
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;果たし状
+    &lt;ul&gt;
+      &lt;li&gt;SRA待ち&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id="old"&gt;可能性が高い (OLD)&lt;/h4&gt;
+
+&lt;p&gt;新規開拓可能性は高いがそもそも153近く出さないと目標値にとどかない。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;DD4
+    &lt;ul&gt;
+      &lt;li&gt;Gr削り15以下目標&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;たまゆら
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;鬼姫
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ… 正規の方が安定する。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;そっと。
+    &lt;ul&gt;
+      &lt;li&gt;Gr削り20台目標&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ラキラキ
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;田んぼの田
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ベロシティ
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ViVid
+    &lt;ul&gt;
+      &lt;li&gt;Gｒ削り10台目標&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;蒼白
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Predator's Crypto Pt.1
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;明鏡止水
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;FSW
+    &lt;ul&gt;
+      &lt;li&gt;Gr削り20台目標&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Awaken
+    &lt;ul&gt;
+      &lt;li&gt;繋ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アンコン
+    &lt;ul&gt;
+      &lt;li&gt;慣れる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+  </entry>
   <entry>
     <title>disgaiaMemo9</title>
     <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/18/disgaia/"/>
@@ -310,54 +496,6 @@
   &lt;li&gt;魔 ワイバーンレポート&lt;/li&gt;
   &lt;li&gt;魔 フェンリル神話集（現世最強）&lt;/li&gt;
   &lt;li&gt;魔 アスタロス祭祀書/バハムートノート（R39/40）&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>disgaiaMemo4</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/08/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/08/disgaia/</id>
-    <published>2014-12-08T00:00:00+09:00</published>
-    <updated>2014-12-18T16:53:44+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;12/8にできたこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;魔物キャラ全開放&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;人型キャラ全開放
-    &lt;ul&gt;
-      &lt;li&gt;取り急ぎアクターレで進める。&lt;/li&gt;
-      &lt;li&gt;ウッドゴーレム/ネコの魔チェンジを駆使して次育成準備も兼ねる
-        &lt;ul&gt;
-          &lt;li&gt;ネコ＞ラズベリ＞杖系＞拳系&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;逆界族埋め
-    &lt;ul&gt;
-      &lt;li&gt;人型キャラ解放でレベリングも進む為余裕&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;適宜倉庫アイテム作成&lt;/li&gt;
-  &lt;li&gt;学級会準備
-    &lt;ul&gt;
-      &lt;li&gt;ねこばば&lt;/li&gt;
-      &lt;li&gt;委員会強化&lt;/li&gt;
-      &lt;li&gt;キャラ強化&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;裏面進める
-    &lt;ul&gt;
-      &lt;li&gt;メガネをとりあえず目標&lt;/li&gt;
-      &lt;li&gt;その次修羅&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>

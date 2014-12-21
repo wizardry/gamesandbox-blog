@@ -5,10 +5,147 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-12-19T00:00:00+09:00</updated>
+  <updated>2014-12-21T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>gfmemo</title>
+    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/21/guitarfreaks/"/>
+    <id>http://blog.url.com/blog/gitadora/2014/12/21/guitarfreaks/</id>
+    <published>2014-12-21T00:00:00+09:00</published>
+    <updated>2014-12-21T13:20:18+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;銀までの整理&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;総合 Pt&lt;/th&gt;
+      &lt;th&gt;総合 .avg&lt;/th&gt;
+      &lt;th&gt;HOT Pt&lt;/th&gt;
+      &lt;th&gt;Hot .avg&lt;/th&gt;
+      &lt;th&gt;OLD Pt&lt;/th&gt;
+      &lt;th&gt;OLD .avg&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7481.25&lt;/td&gt;
+      &lt;td&gt;149.62&lt;/td&gt;
+      &lt;td&gt;3691.09&lt;/td&gt;
+      &lt;td&gt;147.64&lt;/td&gt;
+      &lt;td&gt;3790.16&lt;/td&gt;
+      &lt;td&gt;151.60&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Hot = +9で.avg148
+Old = +10で.avg152&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="hot"&gt;HOT&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;水鏡 (99%)&lt;/li&gt;
+  &lt;li&gt;冬色 (98%)&lt;/li&gt;
+  &lt;li&gt;Summer '64 (96%) &lt;/li&gt;
+  &lt;li&gt;Twinkle Star (96%) &lt;/li&gt;
+  &lt;li&gt;果たし状 EXT-B (96%)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quarrel and Harmony EXT-G (93%)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;家出少年と迷子少女 EXT-G&lt;/li&gt;
+  &lt;li&gt;凛として咲く花の如く ～ひなビタ♪ edition～ MAS-B&lt;/li&gt;
+  &lt;li&gt;都会征服Girls☆ EXT-B&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;天地動伝説 EXT-G&lt;/td&gt;
+          &lt;td&gt;MAS-B&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cherry EXT-G&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="old"&gt;OLD&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MODEL DD4 Gr20以下&lt;/li&gt;
+  &lt;li&gt;たまゆら FC&lt;/li&gt;
+  &lt;li&gt;そっと。 Gr30未満&lt;/li&gt;
+  &lt;li&gt;ラキラキ (GITADORA Ver.)　Gr一桁&lt;/li&gt;
+  &lt;li&gt;キケンな果実 Gr一桁&lt;/li&gt;
+  &lt;li&gt;Awaken Ver.G FC&lt;/li&gt;
+  &lt;li&gt;田んぼの田 FC&lt;/li&gt;
+  &lt;li&gt;Orbital Velocity FC （98％＝154.84　= +5）&lt;/li&gt;
+  &lt;li&gt;ViViD Gr20以下&lt;/li&gt;
+  &lt;li&gt;ノンフィクション FC&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>disgaia</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/</id>
+    <published>2014-12-21T00:00:00+09:00</published>
+    <updated>2014-12-21T12:53:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/21 までにできたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アルムテンLv100 及び コスモインフィニティRare0取得&lt;/li&gt;
+  &lt;li&gt;ハダシックスLv100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ハダシックス量産&lt;/li&gt;
+  &lt;li&gt;コスモインフィニティ強化及び量産&lt;/li&gt;
+  &lt;li&gt;最強武器取得
+    &lt;ul&gt;
+      &lt;li&gt;準最強持っているもの
+        &lt;ul&gt;
+          &lt;li&gt;剣：魔剣良綱&lt;/li&gt;
+          &lt;li&gt;槍：ドリルエンペラー&lt;/li&gt;
+          &lt;li&gt;銃：メギドシューター&lt;/li&gt;
+          &lt;li&gt;弓：ラブアーチェリー&lt;/li&gt;
+          &lt;li&gt;杖：全知全能の杖&lt;/li&gt;
+          &lt;li&gt;魔：サタンフォース&lt;/li&gt;
+          &lt;li&gt;魔：祭祀書&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;杖強化が最優先&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;サルバトーレ強化&lt;/li&gt;
+  &lt;li&gt;アクターレ強化&lt;/li&gt;
+  &lt;li&gt;魔物型キャラ強化
+    &lt;ul&gt;
+      &lt;li&gt;ラズベリル&lt;/li&gt;
+      &lt;li&gt;スライム&lt;/li&gt;
+      &lt;li&gt;キノコ&lt;/li&gt;
+      &lt;li&gt;ウーパールーパ&lt;/li&gt;
+      &lt;li&gt;ウッドゴーレム&lt;/li&gt;
+      &lt;li&gt;ねこ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>gfmemo</title>
     <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/19/guitarfreaks/"/>
@@ -355,147 +492,6 @@ Miss you/サムハ/赤い鈴　などLong分くらい。&lt;/p&gt;
       &lt;li&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>disgaiaMemo6</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/10/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/10/disgaia/</id>
-    <published>2014-12-10T00:00:00+09:00</published>
-    <updated>2014-12-18T16:53:48+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;12/10にできたこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;逆界族&lt;/li&gt;
-  &lt;li&gt;倉庫作成（Fまで）&lt;/li&gt;
-  &lt;li&gt;学級会少し進めた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;逆界族ユニット
-    &lt;ul&gt;
-      &lt;li&gt;靴とMv付き武器の強化&lt;/li&gt;
-      &lt;li&gt;キャラの強化
-        &lt;ul&gt;
-          &lt;li&gt;→Mob 投げ8*3匹　+ 3～6マス各1匹 Mv20～&lt;/li&gt;
-          &lt;li&gt;→Hum 投げ5マス～ Mv20～ *4人&lt;/li&gt;
-          &lt;li&gt;→Hum 投げ8マス*4人
-  ※ とりあえず出撃人数分の靴とキャラ界強化が必須&lt;/li&gt;
-          &lt;li&gt;minで10人*3＝30個の靴と10個の武器&lt;/li&gt;
-          &lt;li&gt;欲しい技,マビ
-            &lt;ul&gt;
-              &lt;li&gt;スカイハイorMv3&lt;/li&gt;
-              &lt;li&gt;魔法：オメガスター　人型はビッグバンか弓&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;キャラ考察
-        &lt;ul&gt;
-          &lt;li&gt;覆面ヒーロー
-            &lt;ul&gt;
-              &lt;li&gt;デフォでスカイハイ&lt;/li&gt;
-              &lt;li&gt;投げ性能が低い&lt;/li&gt;
-              &lt;li&gt;Mv高め&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;重騎士
-            &lt;ul&gt;
-              &lt;li&gt;投げ性能高い&lt;/li&gt;
-              &lt;li&gt;Mv低め&lt;/li&gt;
-              &lt;li&gt;堅い&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;エリンギャー
-            &lt;ul&gt;
-              &lt;li&gt;レシーブ6&lt;/li&gt;
-              &lt;li&gt;魔ビもそこそこ良い&lt;/li&gt;
-              &lt;li&gt;HP高い&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;スライム
-            &lt;ul&gt;
-              &lt;li&gt;最長レシーブ&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>disgaiaMemo5</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/09/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/09/disgaia/</id>
-    <published>2014-12-09T00:00:00+09:00</published>
-    <updated>2014-12-18T16:53:45+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;12/09にできたこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;人型キャラ魔人以外全開放&lt;/li&gt;
-  &lt;li&gt;倉庫幾つか作成&lt;/li&gt;
-  &lt;li&gt;学級会環境&lt;/li&gt;
-  &lt;li&gt;幾つか逆界族&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;倉庫は逆界族済にしたい&lt;/li&gt;
-  &lt;li&gt;逆界族用ユニットの作成
-    &lt;ul&gt;
-      &lt;li&gt;3Tで8体のイノセント+αを回収することを想定。（人型4体いれば2Tかければ回収可能。3体だと3T）=1Tで対岸までいけなければいけない
-        &lt;ul&gt;
-          &lt;li&gt;Mｖ強化
-            &lt;ul&gt;
-              &lt;li&gt;Mv20前後
-                &lt;ul&gt;
-                  &lt;li&gt;元5+武器4+防具3*3+キャラ界2+マビ3 ＝ 22&lt;/li&gt;
-                  &lt;li&gt;魔法持ち+武器A+投げ強化+&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;一部魔物と人型のみ投げ強化&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;学級会で使うキャラ
-    &lt;ul&gt;
-      &lt;li&gt;遠距離通常攻撃持ち&lt;/li&gt;
-      &lt;li&gt;斧的性or魔法広範囲でネコババキャラを作る&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id="a"&gt;武器A&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;拳 忍びの手甲&lt;/li&gt;
-  &lt;li&gt;拳 クロスカウンター&lt;/li&gt;
-  &lt;li&gt;拳 三年殺し（現世アイテム）&lt;/li&gt;
-  &lt;li&gt;拳 黄金の右（修羅）&lt;/li&gt;
-  &lt;li&gt;拳 コスモインフィニティ（+2だが最強武器）&lt;/li&gt;
-  &lt;li&gt;杖 ラプソディ&lt;/li&gt;
-  &lt;li&gt;杖 ファンタズマルワンド&lt;/li&gt;
-  &lt;li&gt;杖 オルフェウスロッド&lt;/li&gt;
-  &lt;li&gt;杖 フォルテッシモ&lt;/li&gt;
-  &lt;li&gt;杖 キーオブザイオン&lt;/li&gt;
-  &lt;li&gt;魔 タイタンフット&lt;/li&gt;
-  &lt;li&gt;魔 狐の九尾（現世アイテム界）&lt;/li&gt;
-  &lt;li&gt;魔 サタンフォース/バールボディ（R39/40）&lt;/li&gt;
-  &lt;li&gt;魔 バジリスク忍法帖&lt;/li&gt;
-  &lt;li&gt;魔 グリフォンタブレット&lt;/li&gt;
-  &lt;li&gt;魔 ワイバーンレポート&lt;/li&gt;
-  &lt;li&gt;魔 フェンリル神話集（現世最強）&lt;/li&gt;
-  &lt;li&gt;魔 アスタロス祭祀書/バハムートノート（R39/40）&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>

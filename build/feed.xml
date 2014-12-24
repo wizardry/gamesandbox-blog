@@ -5,10 +5,194 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-12-22T00:00:00+09:00</updated>
+  <updated>2014-12-24T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>gfmemo</title>
+    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/24/guitarfreaks/"/>
+    <id>http://blog.url.com/blog/gitadora/2014/12/24/guitarfreaks/</id>
+    <published>2014-12-24T00:00:00+09:00</published>
+    <updated>2014-12-24T11:26:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;前日との比較&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style="text-align: left"&gt;日付&lt;/th&gt;
+      &lt;th&gt;総合 Pt&lt;/th&gt;
+      &lt;th&gt;総合 .avg&lt;/th&gt;
+      &lt;th&gt;HOT Pt&lt;/th&gt;
+      &lt;th&gt;Hot .avg&lt;/th&gt;
+      &lt;th&gt;OLD Pt&lt;/th&gt;
+      &lt;th&gt;OLD .avg&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;12/21&lt;/td&gt;
+      &lt;td&gt;7481.25&lt;/td&gt;
+      &lt;td&gt;149.62&lt;/td&gt;
+      &lt;td&gt;3691.09&lt;/td&gt;
+      &lt;td&gt;147.64&lt;/td&gt;
+      &lt;td&gt;3790.16&lt;/td&gt;
+      &lt;td&gt;151.60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;12/22&lt;/td&gt;
+      &lt;td&gt;+8.72&lt;/td&gt;
+      &lt;td&gt;+0.17&lt;/td&gt;
+      &lt;td&gt;+0.85&lt;/td&gt;
+      &lt;td&gt;+0.03&lt;/td&gt;
+      &lt;td&gt;+7.87&lt;/td&gt;
+      &lt;td&gt;+0.32&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;12/23&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+      &lt;td&gt;—-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Hot = +8.25で.avg148
+Old = +2で.avg152&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="section-1"&gt;収穫&lt;/h3&gt;
+
+&lt;p&gt;スキルに絡んだものは無し。&lt;/p&gt;
+
+&lt;p&gt;水鏡→FCするも更新無し
+イヴの時代G/B→FCするも対象入りせず
+ブライトネス→更新するも対象入りせず&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;### 今後&lt;/p&gt;
+
+&lt;p&gt;オービタルベロシティFCがおいしすぎるので狙いたい
+→狙いたいが、メンタル/マインドがやられててプレッシャーギリしてしまいます。&lt;/p&gt;
+
+&lt;p&gt;ノンフィクションワールド
+→出来れば繋ぎたいが精度的に厳しい。&lt;/p&gt;
+
+&lt;p&gt;風神/Cockpit
+→150台狙いたい&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="hot"&gt;HOT&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twinkle Star (96%) &lt;/li&gt;
+  &lt;li&gt;Quarrel and Harmony EXT-G (93%)&lt;/li&gt;
+  &lt;li&gt;水鏡 (99%)&lt;/li&gt;
+  &lt;li&gt;冬色 (98%)→97.97&lt;/li&gt;
+  &lt;li&gt;Summer '64 (96%) &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;果たし状 EXT-B (96%)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;家出少年と迷子少女 EXT-G&lt;/li&gt;
+  &lt;li&gt;凛として咲く花の如く ～ひなビタ♪ edition～ MAS-B&lt;/li&gt;
+  &lt;li&gt;都会征服Girls☆ EXT-B&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;天地動伝説 EXT-G&lt;/td&gt;
+          &lt;td&gt;MAS-B&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cherry EXT-G&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="old"&gt;OLD&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Orbital Velocity FC （98％＝154.84　= +5）&lt;/li&gt;
+  &lt;li&gt;ViViD Gr20以下&lt;/li&gt;
+  &lt;li&gt;Awaken Ver.G FC&lt;/li&gt;
+  &lt;li&gt;田んぼの田 FC&lt;/li&gt;
+  &lt;li&gt;MODEL DD4 Gr20以下&lt;/li&gt;
+  &lt;li&gt;たまゆら FC&lt;/li&gt;
+  &lt;li&gt;そっと。 Gr30未満&lt;/li&gt;
+  &lt;li&gt;ラキラキ (GITADORA Ver.)　Gr一桁　→ Gr6&lt;/li&gt;
+  &lt;li&gt;キケンな果実 Gr一桁&lt;/li&gt;
+  &lt;li&gt;ノンフィクション FC&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>disgaia</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/24/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/24/disgaia/</id>
+    <published>2014-12-24T00:00:00+09:00</published>
+    <updated>2014-12-24T11:40:03+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/24 までにできたこと&lt;/h3&gt;
+
+&lt;p&gt;コスモインフィニティ量産準備
+	* Rarerity0が4個&lt;/p&gt;
+
+&lt;p&gt;ハダシックス・邪気眼がRarerity揃っていない。
+とりあえずハダシックス量産&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;トロフィー取得
+    &lt;ul&gt;
+      &lt;li&gt;１億ダメ&lt;/li&gt;
+      &lt;li&gt;10段タワー&lt;/li&gt;
+      &lt;li&gt;9回レシーブ&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;邪気眼のrarerity0取得 及び強化&lt;/li&gt;
+  &lt;li&gt;ハダシックスのrarerity0取得 及び強化
+    &lt;ul&gt;
+      &lt;li&gt;周回して取れるのか？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;トロフィー取得
+    &lt;ul&gt;
+      &lt;li&gt;界族4つ（新撰組/プリニー/十紳士/バール）&lt;/li&gt;
+      &lt;li&gt;トロフィー屋（91F以降の小部屋）&lt;/li&gt;
+      &lt;li&gt;アクターレ（61F以降の小部屋）&lt;/li&gt;
+      &lt;li&gt;100億ダメージ&lt;/li&gt;
+      &lt;li&gt;10回コンボ（攻撃+のジオエフェクト待ち）&lt;/li&gt;
+      &lt;li&gt;反撃がえし（キャラ作成と無敵のジオエフェクトが必要）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;目的持ってアクションできるのは100億ダメージ。
+	* 武器強化（斧などATK極振りでいけるもの）
+	* トラペゾ（脚と違いステータスを上げれる）
+	* キャラ厳選（魔ビ、適性）&lt;/p&gt;
+
+&lt;p&gt;→ついでに修羅バール倒す（HP40億）&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>gfmemo</title>
     <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/22/guitarfreaks/"/>
@@ -172,6 +356,58 @@ P:443 Gr:6 C:449(FC)&lt;/p&gt;
 </content>
   </entry>
   <entry>
+    <title>disgaia</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/</id>
+    <published>2014-12-21T00:00:00+09:00</published>
+    <updated>2014-12-21T12:53:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="section"&gt;12/21 までにできたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アルムテンLv100 及び コスモインフィニティRare0取得&lt;/li&gt;
+  &lt;li&gt;ハダシックスLv100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ハダシックス量産&lt;/li&gt;
+  &lt;li&gt;コスモインフィニティ強化及び量産&lt;/li&gt;
+  &lt;li&gt;最強武器取得
+    &lt;ul&gt;
+      &lt;li&gt;準最強持っているもの
+        &lt;ul&gt;
+          &lt;li&gt;剣：魔剣良綱&lt;/li&gt;
+          &lt;li&gt;槍：ドリルエンペラー&lt;/li&gt;
+          &lt;li&gt;銃：メギドシューター&lt;/li&gt;
+          &lt;li&gt;弓：ラブアーチェリー&lt;/li&gt;
+          &lt;li&gt;杖：全知全能の杖&lt;/li&gt;
+          &lt;li&gt;魔：サタンフォース&lt;/li&gt;
+          &lt;li&gt;魔：祭祀書&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;杖強化が最優先&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;サルバトーレ強化&lt;/li&gt;
+  &lt;li&gt;アクターレ強化&lt;/li&gt;
+  &lt;li&gt;魔物型キャラ強化
+    &lt;ul&gt;
+      &lt;li&gt;ラズベリル&lt;/li&gt;
+      &lt;li&gt;スライム&lt;/li&gt;
+      &lt;li&gt;キノコ&lt;/li&gt;
+      &lt;li&gt;ウーパールーパ&lt;/li&gt;
+      &lt;li&gt;ウッドゴーレム&lt;/li&gt;
+      &lt;li&gt;ねこ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
     <title>gfmemo</title>
     <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/21/guitarfreaks/"/>
     <id>http://blog.url.com/blog/gitadora/2014/12/21/guitarfreaks/</id>
@@ -254,296 +490,6 @@ Old = +10で.avg152&lt;/p&gt;
   &lt;li&gt;ノンフィクション FC&lt;/li&gt;
 &lt;/ul&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>disgaia</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/21/disgaia/</id>
-    <published>2014-12-21T00:00:00+09:00</published>
-    <updated>2014-12-21T12:53:27+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;12/21 までにできたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;アルムテンLv100 及び コスモインフィニティRare0取得&lt;/li&gt;
-  &lt;li&gt;ハダシックスLv100&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ハダシックス量産&lt;/li&gt;
-  &lt;li&gt;コスモインフィニティ強化及び量産&lt;/li&gt;
-  &lt;li&gt;最強武器取得
-    &lt;ul&gt;
-      &lt;li&gt;準最強持っているもの
-        &lt;ul&gt;
-          &lt;li&gt;剣：魔剣良綱&lt;/li&gt;
-          &lt;li&gt;槍：ドリルエンペラー&lt;/li&gt;
-          &lt;li&gt;銃：メギドシューター&lt;/li&gt;
-          &lt;li&gt;弓：ラブアーチェリー&lt;/li&gt;
-          &lt;li&gt;杖：全知全能の杖&lt;/li&gt;
-          &lt;li&gt;魔：サタンフォース&lt;/li&gt;
-          &lt;li&gt;魔：祭祀書&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;杖強化が最優先&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;サルバトーレ強化&lt;/li&gt;
-  &lt;li&gt;アクターレ強化&lt;/li&gt;
-  &lt;li&gt;魔物型キャラ強化
-    &lt;ul&gt;
-      &lt;li&gt;ラズベリル&lt;/li&gt;
-      &lt;li&gt;スライム&lt;/li&gt;
-      &lt;li&gt;キノコ&lt;/li&gt;
-      &lt;li&gt;ウーパールーパ&lt;/li&gt;
-      &lt;li&gt;ウッドゴーレム&lt;/li&gt;
-      &lt;li&gt;ねこ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>gfmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2014/12/19/guitarfreaks/"/>
-    <id>http://blog.url.com/blog/gitadora/2014/12/19/guitarfreaks/</id>
-    <published>2014-12-19T00:00:00+09:00</published>
-    <updated>2014-12-19T12:47:26+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;銀までの整理&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;現在スキル&lt;/td&gt;
-      &lt;td&gt;7478.77&lt;/td&gt;
-      &lt;td&gt;.Avg&lt;/td&gt;
-      &lt;td&gt;149.57&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;HOT&lt;/td&gt;
-      &lt;td&gt;3689.23&lt;/td&gt;
-      &lt;td&gt;HOT .Avg&lt;/td&gt;
-      &lt;td&gt;147.56&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;OLD&lt;/td&gt;
-      &lt;td&gt;3789.54&lt;/td&gt;
-      &lt;td&gt;OLD .Avg&lt;/td&gt;
-      &lt;td&gt;151.58&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id="section-1"&gt;目標&lt;/h4&gt;
-
-&lt;p&gt;HOT .avg 148
-OLD .avg 152&lt;/p&gt;
-
-&lt;p&gt;HOT枠を +11 上げる,
-OLD枠を +11 上げる&lt;/p&gt;
-
-&lt;p&gt;＝ 銀達成。&lt;/p&gt;
-
-&lt;h4 id="hot"&gt;可能性が高い (HOT)&lt;/h4&gt;
-
-&lt;p&gt;新規対象入りできそうなのがほぼ無い。
-Miss you/サムハ/赤い鈴　などLong分くらい。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Cherry EXT-G
-    &lt;ul&gt;
-      &lt;li&gt;150～152&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;冬色 EXT-B
-    &lt;ul&gt;
-      &lt;li&gt;長いのは奇数&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Summer EXT-B
-    &lt;ul&gt;
-      &lt;li&gt;集中力次第&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;家出少年 EXT-G
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Jkパラダイス
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;凛花　MAS-B
-    &lt;ul&gt;
-      &lt;li&gt;Gr10前後目指せれば…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;天地動説伝説 EXT-G
-    &lt;ul&gt;
-      &lt;li&gt;紫B以降狙い 92％↑で移行&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ジュピター MAS-G
-    &lt;ul&gt;
-      &lt;li&gt;高速以外のP率上げる&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;スプバズ EXT-G
-    &lt;ul&gt;
-      &lt;li&gt;高速までのP率上げる&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;トキシック MAS-B
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;果たし状
-    &lt;ul&gt;
-      &lt;li&gt;SRA待ち&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id="old"&gt;可能性が高い (OLD)&lt;/h4&gt;
-
-&lt;p&gt;新規開拓可能性は高いがそもそも153近く出さないと目標値にとどかない。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;DD4
-    &lt;ul&gt;
-      &lt;li&gt;Gr削り15以下目標&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;たまゆら
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;鬼姫
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ… 正規の方が安定する。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;そっと。
-    &lt;ul&gt;
-      &lt;li&gt;Gr削り20台目標&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ラキラキ
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;田んぼの田
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ベロシティ
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ViVid
-    &lt;ul&gt;
-      &lt;li&gt;Gｒ削り10台目標&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;蒼白
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Predator's Crypto Pt.1
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;明鏡止水
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;FSW
-    &lt;ul&gt;
-      &lt;li&gt;Gr削り20台目標&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Awaken
-    &lt;ul&gt;
-      &lt;li&gt;繋ぐ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;アンコン
-    &lt;ul&gt;
-      &lt;li&gt;慣れる&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>disgaiaMemo9</title>
-    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2014/12/18/disgaia/"/>
-    <id>http://blog.url.com/blog/disgaia3/2014/12/18/disgaia/</id>
-    <published>2014-12-18T00:00:00+09:00</published>
-    <updated>2014-12-18T19:23:51+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;18日までにできたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;サルバトーレ育成中
-    &lt;ul&gt;
-      &lt;li&gt;転生ボーナス100くらいまできた。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;武器強化
-    &lt;ul&gt;
-      &lt;li&gt;とりあえず強化
-        &lt;ul&gt;
-          &lt;li&gt;拳&lt;/li&gt;
-          &lt;li&gt;杖&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;準最強取得済
-        &lt;ul&gt;
-          &lt;li&gt;サタンフォース&lt;/li&gt;
-          &lt;li&gt;魔剣良綱&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ハダシックス欲しい&lt;/li&gt;
-  &lt;li&gt;邪気眼を最低10個欲しい&lt;/li&gt;
-  &lt;li&gt;サルバトーレと並行して育成するキャラ
-    &lt;ul&gt;
-      &lt;li&gt;候補はアクターレとラズベリル&lt;/li&gt;
-      &lt;li&gt;また、キャラ界無しでウッドゴーレムと猫族&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;界族待ち&lt;/li&gt;
-  &lt;li&gt;トロフィー部屋&lt;/li&gt;
-  &lt;li&gt;アイテム界アクターレ&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 ---
 title: disgaia
-titleJp: ディスガイア3備忘録12
+titleJp: ディスガイア3備忘録13
 date: 2014-12-25
 tags: "TvGame"
 tagsJp: "TVゲーム"

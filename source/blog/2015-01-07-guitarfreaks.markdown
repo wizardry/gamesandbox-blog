@@ -1,14 +1,13 @@
 ---
 title: gfmemo
 titleJp: GUITARFREAKS
-date: 2015-01-08
+date: 2015-01-07
 tags: "bemani"
 tagsJp: "音ゲー"
 category: GITADORA
 categoryJp: ギタドラ
 
 ---
-
 
 ### やってみたい曲
 

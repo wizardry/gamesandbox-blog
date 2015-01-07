@@ -1,23 +1,13 @@
 ---
 title: metalgaresolid5gz
 titleJp: MGS:GZ-2
-date: 2015-01-08
+date: 2015-01-07
 tags: "TvGame"
 tagsJp: "TVゲーム"
 category: MGS5:GZ
 categoryJp: MGS5:GZ
 
 ---
-
-
-<!-- !["alt"](= currebnt_page.url photo1.jpg)
-!["alt"](= currebnt_page.url photo2.jpg)
- -->
-
-[!["alt"](blog/2015-01-08-mgsgz/photo1.jpg)](blog/2015-01-08-mgsgz/photo1.jpg)
-[!["alt"](blog/2015-01-08-mgsgz/photo2.jpg)](blog/2015-01-08-mgsgz/photo2.jpg)
-
-
 
 ## log Add
 

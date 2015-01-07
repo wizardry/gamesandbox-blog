@@ -19,6 +19,14 @@ a{
 		text-decoration: none;
 	}
 }
+img{
+	max-width:100%;
+}
+.blogImg,.blogBody img{
+	height:250px;
+	width:auto;
+}
+
 .headerWrap{
 	width: 100%;
 	background:url(image-path('common/header_bgb.jpg')) center center no-repeat;

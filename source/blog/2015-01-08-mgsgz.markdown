@@ -1,0 +1,42 @@
+---
+title: metalgaresolid5gz
+titleJp: MGS:GZ-2
+date: 2015-01-08
+tags: "TvGame"
+tagsJp: "TVゲーム"
+category: MGS5:GZ
+categoryJp: MGS5:GZ
+
+---
+
+
+<!-- !["alt"](= currebnt_page.url photo1.jpg)
+!["alt"](= currebnt_page.url photo2.jpg)
+ -->
+
+[!["alt"](blog/2015-01-08-mgsgz/photo1.jpg)](blog/2015-01-08-mgsgz/photo1.jpg)
+[!["alt"](blog/2015-01-08-mgsgz/photo2.jpg)](blog/2015-01-08-mgsgz/photo2.jpg)
+
+
+
+## log Add
+
+* デジャヴミッション マーキングトライアル 21位
+* ジャメヴミッション マーキングトライアル 22位
+* トロフィーコンプ
+
+## したいこと
+
+* 各マーキングトライアル
+	* GZ Normal BEST30狙う
+* 他、2桁狙えそうなもの
+* MAP作り？
+* iDROID連携
+
+### MGO3参考情報
+[MGO3](http://matome.naver.jp/odai/2141788486247026101)
+
+エミュ鯖で旧MGOできるっぽい？
+
+
+

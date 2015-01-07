@@ -1,0 +1,1 @@
+$(function(){function t(){var t="/gamesandbox-blog/build";$('a[href^="/"]').each(function(){$(this).attr("href",t+$(this).attr("href"))}),$('img[src^="/"]').each(function(){$(this).attr("src",t+$(this).attr("src"))})}var a=location.hostname;"localhost"!=a&&t()});

@@ -9,8 +9,8 @@ categoryJp: MGS5:GZ
 
 ---
 
-[!["デジャヴ・ミッション21位"](blog/2015-01-08-mgsgz/photo1.jpg)](/img/blog/2015-01-08-mgsgz/photo1.jpg)
-[!["ジャメヴ・ミッション22位"](blog/2015-01-08-mgsgz/photo2.jpg)](/img/blog/2015-01-08-mgsgz/photo2.jpg)
+[!["デジャヴ・ミッション21位"](blog/2015-01-07-mgsgz/photo1.jpg)](/img/blog/2015-01-07-mgsgz/photo1.jpg)
+[!["ジャメヴ・ミッション22位"](blog/2015-01-07-mgsgz/photo2.jpg)](/img/blog/2015-01-07-mgsgz/photo2.jpg)
 
 
 ## log Add
@@ -21,7 +21,7 @@ categoryJp: MGS5:GZ
 
 ### デジャヴミッション マーキングトライアル √
 
-[!["デジャヴ 地図"](blog/2015-01-08-mgsgz/photo3.jpg)](/img/blog/2015-01-08-mgsgz/photo3.jpg)
+[!["デジャヴ 地図"](blog/2015-01-07-mgsgz/photo3.jpg)](/img/blog/2015-01-07-mgsgz/photo3.jpg)
 
 サイボーグ使用
 
@@ -39,7 +39,7 @@ categoryJp: MGS5:GZ
 
 ### ジャメヴミッション マーキングトライアル √
 
-[!["デジャヴ 地図"](blog/2015-01-08-mgsgz/photo4.jpg)](/img/blog/2015-01-08-mgsgz/photo4.jpg)
+[!["デジャヴ 地図"](blog/2015-01-07-mgsgz/photo4.jpg)](/img/blog/2015-01-07-mgsgz/photo4.jpg)
 
 1. 開幕直進見張り台真横あたりから振り向き見張り台をマーキング（青2）
 1. 気持ち進み真横キャンプ内1体マーキング（青3）

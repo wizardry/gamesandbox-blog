@@ -5,10 +5,45 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-08T00:00:00+09:00</updated>
+  <updated>2015-01-09T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>kagerou_dp</title>
+    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/"/>
+    <id>http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/</id>
+    <published>2015-01-09T00:00:00+09:00</published>
+    <updated>2015-01-09T11:53:57+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;p&gt;とりあえずChapter2の最後までやった。
+敵をフリーで全捕獲とかしてると意外に時間が掛かる。&lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;感想&lt;/h2&gt;
+
+&lt;p&gt;PS2の影牢 Dark illusionと比較して、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;特定時に相手を押せなくなった&lt;/li&gt;
+  &lt;li&gt;罠にかけた際、敵の向きが固定じゃなくなった&lt;/li&gt;
+  &lt;li&gt;見た目はPS3っぽい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;というのが率直な感想。
+他、序盤罠のバリエーションが少なくて飽きやすい。
+後半になれば設置罠の熟知度と罠のバリエーションによってArkゲーに徹することも出来るかも。&lt;/p&gt;
+
+&lt;p&gt;一旦GZに戻ってもいいかもしれない。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href="http://kageroudp.wiki.fc2.com/"&gt;影牢 ダークサイドプリンセス 攻略&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>metalgaresolid5gz</title>
     <link rel="alternate" href="http://blog.url.com/blog/mgs5-gz/2015/01/08/mgsgz/"/>
@@ -243,35 +278,21 @@ GZ放置するかも。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>pelsonaQ</title>
-    <link rel="alternate" href="http://blog.url.com/blog/pelsonaq/2015/01/05/pelsonaq/"/>
-    <id>http://blog.url.com/blog/pelsonaq/2015/01/05/pelsonaq/</id>
+    <title>disgaia</title>
+    <link rel="alternate" href="http://blog.url.com/blog/disgaia3/2015/01/05/disgaia/"/>
+    <id>http://blog.url.com/blog/disgaia3/2015/01/05/disgaia/</id>
     <published>2015-01-05T00:00:00+09:00</published>
-    <updated>2015-01-05T12:43:02+09:00</updated>
+    <updated>2015-01-05T12:28:53+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;h2 id="section"&gt;01/05までにしたこと&lt;/h2&gt;
+    <content type="html">&lt;h3 id="section"&gt;01/05 までにできたこと&lt;/h3&gt;
 
-&lt;p&gt;3階層3Fまで到達。
-Lv40くらい&lt;/p&gt;
+&lt;p&gt;トロフィー収集&lt;/p&gt;
 
-&lt;h2 id="section-1"&gt;したいこと&lt;/h2&gt;
+&lt;h3 id="section-1"&gt;したいこと&lt;/h3&gt;
 
-&lt;p&gt;とりあえずクリア目標に。
-いい加減安定した回復ペルソナ欲しい。
-後衛攻め用ペルソナも欲しい。&lt;/p&gt;
-
-&lt;h2 id="section-2"&gt;雑感&lt;/h2&gt;
-
-&lt;p&gt;年末年始潰し用に購入。
-年末年始内でコンプできず。
-地道に埋めていく予定。&lt;/p&gt;
-
-&lt;p&gt;P4未経験の為P4設定よくわからず。
-世界樹の迷宮ライクなので個人的にはナンバリングタイトルより遊びやすい。
-しかしスキル使用前提の戦闘バランスな為、戦闘面では相変わらずのPシリーズっぽさがある。&lt;/p&gt;
-
+&lt;p&gt;飽きた為休止&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -310,95 +331,6 @@ Lv40くらい&lt;/p&gt;
 
 &lt;p&gt;エミュ鯖で旧MGOできるっぽい？&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>gfmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/01/05/guitarfreaks/"/>
-    <id>http://blog.url.com/blog/gitadora/2015/01/05/guitarfreaks/</id>
-    <published>2015-01-05T00:00:00+09:00</published>
-    <updated>2015-01-05T13:03:04+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;目標達成&lt;/h2&gt;
-
-&lt;p&gt;オービタルフルコンしてなんやかんやして銀到達。&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;今後&lt;/h2&gt;
-
-&lt;p&gt;運指維持にSRAN
-P率上げ、FCプレッシャー慣れに低レベルFC/EXC狙い
-他7.5-8.9埋め&lt;/p&gt;
-
-&lt;h2 id="section-2"&gt;面白かった曲&lt;/h2&gt;
-
-&lt;h3 id="section-3"&gt;辞世テンプレート&lt;/h3&gt;
-
-&lt;p&gt;Bの譜面が詐称で面白い。&lt;/p&gt;
-
-&lt;h3 id="section-4"&gt;やってみたい曲&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;恋閃繚乱&lt;/li&gt;
-  &lt;li&gt;ボクらのトリップデイズ&lt;/li&gt;
-  &lt;li&gt;RUSH&lt;/li&gt;
-  &lt;li&gt;serial number&lt;/li&gt;
-  &lt;li&gt;Dragontail Butterfly&lt;/li&gt;
-  &lt;li&gt;BLUE FLAME&lt;/li&gt;
-  &lt;li&gt;星のすみか&lt;/li&gt;
-  &lt;li&gt;耳たぶ2号&lt;/li&gt;
-  &lt;li&gt;Like&amp;amp;Love&lt;/li&gt;
-  &lt;li&gt;No pain, No game&lt;/li&gt;
-  &lt;li&gt;Run Run&lt;/li&gt;
-  &lt;li&gt;Screaming Your Faith!!!&lt;/li&gt;
-  &lt;li&gt;Speeders&lt;/li&gt;
-  &lt;li&gt;君と同じ季節の下&lt;/li&gt;
-  &lt;li&gt;ぐっばい my crybaby&lt;/li&gt;
-  &lt;li&gt;迎撃のフォルテ&lt;/li&gt;
-  &lt;li&gt;金輪際のエレジー&lt;/li&gt;
-  &lt;li&gt;Shake and Shout!!&lt;/li&gt;
-  &lt;li&gt;kiss me&lt;/li&gt;
-  &lt;li&gt;GO-ON&lt;/li&gt;
-  &lt;li&gt;Einherjar&lt;/li&gt;
-  &lt;li&gt;Sonne&lt;/li&gt;
-  &lt;li&gt;Lost in Blue&lt;/li&gt;
-  &lt;li&gt;JJ-road&lt;/li&gt;
-  &lt;li&gt;にゃんだふる55&lt;/li&gt;
-  &lt;li&gt;Say&lt;/li&gt;
-  &lt;li&gt;Desert Rose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="exc"&gt;EXC狙いたい曲&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;君の知らない物語&lt;/li&gt;
-  &lt;li&gt;リアルワールド&lt;/li&gt;
-  &lt;li&gt;群青と流星&lt;/li&gt;
-  &lt;li&gt;優しさの理由&lt;/li&gt;
-  &lt;li&gt;カタルシスの月&lt;/li&gt;
-  &lt;li&gt;ほしふり&lt;/li&gt;
-  &lt;li&gt;去る金合戦&lt;/li&gt;
-  &lt;li&gt;Sakura Sunrise&lt;/li&gt;
-  &lt;li&gt;花の唄&lt;/li&gt;
-  &lt;li&gt;ヘリコプター&lt;/li&gt;
-  &lt;li&gt;Homesick Pt.2&amp;amp;3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="fc"&gt;FCしたい曲&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;サマホリ&lt;/li&gt;
-  &lt;li&gt;レボリューション&lt;/li&gt;
-  &lt;li&gt;walk with you&lt;/li&gt;
-  &lt;li&gt;Icicles&lt;/li&gt;
-  &lt;li&gt;大和撫子魂&lt;/li&gt;
-  &lt;li&gt;月光蝶&lt;/li&gt;
-  &lt;li&gt;I'm a loser&lt;/li&gt;
-  &lt;li&gt;ジェントリー&lt;/li&gt;
-  &lt;li&gt;begin&lt;/li&gt;
-  &lt;li&gt;FIREBALL&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>

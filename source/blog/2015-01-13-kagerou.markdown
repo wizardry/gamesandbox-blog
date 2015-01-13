@@ -1,0 +1,17 @@
+---
+title: kagerou_dp
+titleJp: 影牢1
+date: 2015-01-13
+tags: "TvGame"
+tagsJp: "TVゲーム"
+category: kagerouDP
+categoryJp: 影牢 ダークサイドプリンセス
+
+---
+
+## 進捗
+
+Chap5まで。
+Chap4のBossで発狂しすぎて精根尽きる。
+
+気が向いたタイミングで徐々にやってく。

@@ -5,10 +5,98 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-13T00:00:00+09:00</updated>
+  <updated>2015-01-15T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/15/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/01/15/reue/</id>
+    <published>2015-01-15T00:00:00+09:00</published>
+    <updated>2015-01-15T14:27:17+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;INFERNOクリア&lt;/li&gt;
+  &lt;li&gt;スキャントロフィー取得&lt;/li&gt;
+  &lt;li&gt;ソラリウムトロフィー取得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="inferno"&gt;INFERNO雑感&lt;/h3&gt;
+
+&lt;p&gt;Chap11がやや鬼な記憶があったんだけどコス変更したら楽勝やでって記事みてやってみたら楽勝過ぎわろたでした。
+ラスボス2形態以降の弱点角度がキツくて何度か発狂したけれども問題無くクリア。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;レイド&lt;/h3&gt;
+
+&lt;p&gt;DARK 19stまでクリア。
+TBはプロムナードで詰まってるけれど、カスタムパーツ集めた方がらくちんになるので、
+先にDEEP稼ぎくらいまではやりたい。&lt;/p&gt;
+
+&lt;p&gt;CSはAbyssからTBで取得可能？
+ダメージはIIIがDEEP17～Abyss1～
+IVがAbyss10～
+VはAbyss18～&lt;/p&gt;
+
+&lt;h2 id="section-2"&gt;トロフィー一覧&lt;/h2&gt;
+
+&lt;p&gt;【CAMPAIGN】一度もゲームオーバーにならずにクリア(難易度NORMAL以上)
+【CAMPAIGN】秘密の手形を30個スキャンする
+【CAMPAIGN】レイチェルが食堂に到達する前に倒す
+【CAMPAIGN】電撃グレネードを使って敵を3体まとめて倒す
+【CAMPAIGN】ロケットランチャーを使わずにマラコーダを倒す
+【CAMPAIGN】最大までためた体術を10回以上決める&lt;/p&gt;
+
+&lt;p&gt;【RAID MODE】難易度DARKを全てクリア
+【RAID MODE】難易度DARKの全てのステージをSランクでクリア
+【RAID MODE】難易度DEEPを全てクリア
+【RAID MODE】難易度DEEPの全てのステージをSランクでクリア
+【RAID MODE】難易度ABYSSを全てクリア
+【RAID MODE】難易度ABYSSの全てのステージをSランクでクリア
+【RAID MODE】THE GHOST SHIPをクリア
+【RAID MODE】レベルが20以上になる
+【RAID MODE】レベルが30以上になる
+【RAID MODE】レベルが40以上になる
+【RAID MODE】レベルが50になる
+【RAID MODE】敵を10000体以上倒す
+【RAID MODE】一度の攻撃で100000ダメージを与える
+【RAID MODE】激レアクラスの武器を全て入手する
+【RAID MODE】STOREの利用額が1000000BPを越える
+【RAID MODE】推奨レベルより5低いレベルでクリア
+【RAID MODE】ボーナスを50個獲得
+【RAID MODE】ボーナスを100個獲得
+【RAID MODE】ボーナスを150個獲得
+~~ 【CAMPAIGN】難易度INFERNALでCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】全ての敵(全種)をスキャンする ~~
+~~ 【CAMPAIGN】ソラリウムで泳ぐ ~~
+~~ 【CAMPAIGN】Episode1,2,3をクリア ~~
+~~ 【CAMPAIGN】Episode4,5,6をクリア ~~
+~~ 【CAMPAIGN】Episode7,8,9をクリア ~~
+~~ 【CAMPAIGN】Episode10,11,12をクリア ~~
+~~ 【CAMPAIGN】難易度CASUAL以上でCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】難易度NORMAL以上でCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】秘密の手形を1個スキャンする ~~
+~~ 【CAMPAIGN】秘密の手形を15個以上スキャンする ~~
+~~ 【CAMPAIGN】初めて敵をスキャンした ~~
+~~ 【CAMPAIGN】敵を150体以上倒す ~~
+~~ 【CAMPAIGN】敵の弾をナイフで打ち落とす ~~
+~~ 【CAMPAIGN】ヘッドショットでウーズを10体倒す ~~
+~~ 【CAMPAIGN】スキャグデッドの即死攻撃を回避する ~~
+~~ 【CAMPAIGN】スカルミリオーネを分離させずに倒す ~~
+~~ 【CAMPAIGN】20回以上回避する ~~
+~~ 【RAID MODE】レベルが5以上になる ~~
+~~ 【RAID MODE】レベルが10以上になる ~~
+~~ 【RAID MODE】二人同時に最大まで溜めた体術を決める(オンライン限定) ~~
+~~ 【RAID MODE】激レアクラスの武器を入手する ~~
+~~ 【RAID MODE】初めてノーダメージボーナスを達成 ~~
+~~ 【RAID MODE】初めてトリニティボーナスを達成 ~~
+~~ 【RAID MODE】ボーナスを10個獲得 ~~&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/13/reue/"/>
@@ -312,87 +400,6 @@ GZ放置するかも。&lt;/p&gt;
 
 &lt;p&gt;エミュ鯖で旧MGOできるっぽい？&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>gfmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/01/07/guitarfreaks/"/>
-    <id>http://blog.url.com/blog/gitadora/2015/01/07/guitarfreaks/</id>
-    <published>2015-01-07T00:00:00+09:00</published>
-    <updated>2015-01-07T13:42:52+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h3 id="section"&gt;やってみたい曲&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;恋閃繚乱
-    &lt;ul&gt;
-      &lt;li&gt;普通&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ボクらのトリップデイズ&lt;/li&gt;
-  &lt;li&gt;RUSH&lt;/li&gt;
-  &lt;li&gt;serial number&lt;/li&gt;
-  &lt;li&gt;Dragontail Butterfly&lt;/li&gt;
-  &lt;li&gt;BLUE FLAME&lt;/li&gt;
-  &lt;li&gt;星のすみか&lt;/li&gt;
-  &lt;li&gt;耳たぶ2号&lt;/li&gt;
-  &lt;li&gt;Like&amp;amp;Love&lt;/li&gt;
-  &lt;li&gt;No pain, No game
-    &lt;ul&gt;
-      &lt;li&gt;ドラ難しい&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Run Run&lt;/li&gt;
-  &lt;li&gt;Screaming Your Faith!!!&lt;/li&gt;
-  &lt;li&gt;Speeders&lt;/li&gt;
-  &lt;li&gt;君と同じ季節の下&lt;/li&gt;
-  &lt;li&gt;ぐっばい my crybaby&lt;/li&gt;
-  &lt;li&gt;迎撃のフォルテ&lt;/li&gt;
-  &lt;li&gt;金輪際のエレジー&lt;/li&gt;
-  &lt;li&gt;Shake and Shout!!&lt;/li&gt;
-  &lt;li&gt;kiss me&lt;/li&gt;
-  &lt;li&gt;GO-ON&lt;/li&gt;
-  &lt;li&gt;Einherjar&lt;/li&gt;
-  &lt;li&gt;Sonne&lt;/li&gt;
-  &lt;li&gt;Lost in Blue&lt;/li&gt;
-  &lt;li&gt;JJ-road&lt;/li&gt;
-  &lt;li&gt;にゃんだふる55&lt;/li&gt;
-  &lt;li&gt;Say&lt;/li&gt;
-  &lt;li&gt;Desert Rose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="exc"&gt;EXC狙いたい曲&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;君の知らない物語&lt;/li&gt;
-  &lt;li&gt;リアルワールド&lt;/li&gt;
-  &lt;li&gt;群青と流星&lt;/li&gt;
-  &lt;li&gt;優しさの理由&lt;/li&gt;
-  &lt;li&gt;カタルシスの月&lt;/li&gt;
-  &lt;li&gt;ほしふり&lt;/li&gt;
-  &lt;li&gt;去る金合戦&lt;/li&gt;
-  &lt;li&gt;Sakura Sunrise&lt;/li&gt;
-  &lt;li&gt;花の唄&lt;/li&gt;
-  &lt;li&gt;ヘリコプター&lt;/li&gt;
-  &lt;li&gt;Homesick Pt.2&amp;amp;3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="fc"&gt;FCしたい曲&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;サマホリ&lt;/li&gt;
-  &lt;li&gt;レボリューション&lt;/li&gt;
-  &lt;li&gt;walk with you&lt;/li&gt;
-  &lt;li&gt;Icicles&lt;/li&gt;
-  &lt;li&gt;大和撫子魂&lt;/li&gt;
-  &lt;li&gt;月光蝶&lt;/li&gt;
-  &lt;li&gt;I'm a loser&lt;/li&gt;
-  &lt;li&gt;ジェントリー&lt;/li&gt;
-  &lt;li&gt;begin&lt;/li&gt;
-  &lt;li&gt;FIREBALL&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>

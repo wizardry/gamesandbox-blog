@@ -5,10 +5,101 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-15T00:00:00+09:00</updated>
+  <updated>2015-01-16T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/16/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/01/16/reue/</id>
+    <published>2015-01-16T00:00:00+09:00</published>
+    <updated>2015-01-16T16:24:26+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DARK全ステージクリア&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;過去ログ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;INFERNOクリア&lt;/li&gt;
+  &lt;li&gt;スキャントロフィー取得&lt;/li&gt;
+  &lt;li&gt;ソラリウムトロフィー取得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;レイド&lt;/h3&gt;
+
+&lt;p&gt;DEEP前半まで。
+推奨LvよりLv低いため敵堅過ぎて武器収集。
+武器収集しながらTB狙い。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;CSはAbyssからTBで取得可能？
+ダメージはIIIがDEEP17～Abyss1～
+IVがAbyss10～
+VはAbyss18～&lt;/p&gt;
+
+&lt;h2 id="section-2"&gt;トロフィー一覧&lt;/h2&gt;
+
+&lt;p&gt;【CAMPAIGN】一度もゲームオーバーにならずにクリア(難易度NORMAL以上)
+【CAMPAIGN】秘密の手形を30個スキャンする
+【CAMPAIGN】レイチェルが食堂に到達する前に倒す
+【CAMPAIGN】電撃グレネードを使って敵を3体まとめて倒す
+【CAMPAIGN】ロケットランチャーを使わずにマラコーダを倒す
+【CAMPAIGN】最大までためた体術を10回以上決める&lt;/p&gt;
+
+&lt;p&gt;【RAID MODE】難易度DARKの全てのステージをSランクでクリア
+【RAID MODE】難易度DEEPを全てクリア
+【RAID MODE】難易度DEEPの全てのステージをSランクでクリア
+【RAID MODE】難易度ABYSSを全てクリア
+【RAID MODE】難易度ABYSSの全てのステージをSランクでクリア
+【RAID MODE】THE GHOST SHIPをクリア
+【RAID MODE】レベルが30以上になる
+【RAID MODE】レベルが40以上になる
+【RAID MODE】レベルが50になる
+【RAID MODE】敵を10000体以上倒す
+【RAID MODE】一度の攻撃で100000ダメージを与える
+【RAID MODE】激レアクラスの武器を全て入手する
+【RAID MODE】STOREの利用額が1000000BPを越える
+【RAID MODE】推奨レベルより5低いレベルでクリア
+【RAID MODE】ボーナスを100個獲得
+【RAID MODE】ボーナスを150個獲得
+~~ 【RAID MODE】ボーナスを50個獲得 ~~
+~~ 【RAID MODE】レベルが20以上になる ~~
+~~ 【RAID MODE】難易度DARKを全てクリア ~~
+~~ 【CAMPAIGN】難易度INFERNALでCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】全ての敵(全種)をスキャンする ~~
+~~ 【CAMPAIGN】ソラリウムで泳ぐ ~~
+~~ 【CAMPAIGN】Episode1,2,3をクリア ~~
+~~ 【CAMPAIGN】Episode4,5,6をクリア ~~
+~~ 【CAMPAIGN】Episode7,8,9をクリア ~~
+~~ 【CAMPAIGN】Episode10,11,12をクリア ~~
+~~ 【CAMPAIGN】難易度CASUAL以上でCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】難易度NORMAL以上でCAMPAIGNをクリア ~~
+~~ 【CAMPAIGN】秘密の手形を1個スキャンする ~~
+~~ 【CAMPAIGN】秘密の手形を15個以上スキャンする ~~
+~~ 【CAMPAIGN】初めて敵をスキャンした ~~
+~~ 【CAMPAIGN】敵を150体以上倒す ~~
+~~ 【CAMPAIGN】敵の弾をナイフで打ち落とす ~~
+~~ 【CAMPAIGN】ヘッドショットでウーズを10体倒す ~~
+~~ 【CAMPAIGN】スキャグデッドの即死攻撃を回避する ~~
+~~ 【CAMPAIGN】スカルミリオーネを分離させずに倒す ~~
+~~ 【CAMPAIGN】20回以上回避する ~~
+~~ 【RAID MODE】レベルが5以上になる ~~
+~~ 【RAID MODE】レベルが10以上になる ~~
+~~ 【RAID MODE】二人同時に最大まで溜めた体術を決める(オンライン限定) ~~
+~~ 【RAID MODE】激レアクラスの武器を入手する ~~
+~~ 【RAID MODE】初めてノーダメージボーナスを達成 ~~
+~~ 【RAID MODE】初めてトリニティボーナスを達成 ~~
+~~ 【RAID MODE】ボーナスを10個獲得 ~~&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/15/reue/"/>
@@ -95,6 +186,23 @@ VはAbyss18～&lt;/p&gt;
 ~~ 【RAID MODE】初めてノーダメージボーナスを達成 ~~
 ~~ 【RAID MODE】初めてトリニティボーナスを達成 ~~
 ~~ 【RAID MODE】ボーナスを10個獲得 ~~&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>kagerou_dp</title>
+    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/"/>
+    <id>http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/</id>
+    <published>2015-01-13T00:00:00+09:00</published>
+    <updated>2015-01-13T12:24:58+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;p&gt;Chap5まで。
+Chap4のBossで発狂しすぎて精根尽きる。&lt;/p&gt;
+
+&lt;p&gt;気が向いたタイミングで徐々にやってく。&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -200,23 +308,6 @@ PS+のフリプによりDL。&lt;/p&gt;
   </entry>
   <entry>
     <title>kagerou_dp</title>
-    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/"/>
-    <id>http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/</id>
-    <published>2015-01-13T00:00:00+09:00</published>
-    <updated>2015-01-13T12:24:58+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
-
-&lt;p&gt;Chap5まで。
-Chap4のBossで発狂しすぎて精根尽きる。&lt;/p&gt;
-
-&lt;p&gt;気が向いたタイミングで徐々にやってく。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>kagerou_dp</title>
     <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/"/>
     <id>http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/</id>
     <published>2015-01-09T00:00:00+09:00</published>
@@ -315,85 +406,6 @@ GZ放置するかも。&lt;/p&gt;
 &lt;script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 &lt;h2 id="section-3"&gt;したいこと&lt;/h2&gt;
-
-&lt;h3 id="mgo3"&gt;MGO3参考情報&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://matome.naver.jp/odai/2141788486247026101"&gt;MGO3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;エミュ鯖で旧MGOできるっぽい？&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>metalgaresolid5gz</title>
-    <link rel="alternate" href="http://blog.url.com/blog/mgs5-gz/2015/01/07/mgsgz/"/>
-    <id>http://blog.url.com/blog/mgs5-gz/2015/01/07/mgsgz/</id>
-    <published>2015-01-07T00:00:00+09:00</published>
-    <updated>2015-01-08T13:08:54+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-07-mgsgz/photo1-cd8ae129.jpg"&gt;&lt;img alt="&amp;quot;デジャヴ・ミッション21位&amp;quot;" src="../../../../../../img/blog/2015-01-07-mgsgz/photo1-cd8ae129.jpg" /&gt;&lt;/a&gt;
-&lt;a href="../../../../../../img/blog/2015-01-07-mgsgz/photo2-aacef73b.jpg"&gt;&lt;img alt="&amp;quot;ジャメヴ・ミッション22位&amp;quot;" src="../../../../../../img/blog/2015-01-07-mgsgz/photo2-aacef73b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="log-add"&gt;log Add&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;デジャヴミッション マーキングトライアル 21位&lt;/li&gt;
-  &lt;li&gt;ジャメヴミッション マーキングトライアル 22位&lt;/li&gt;
-  &lt;li&gt;トロフィーコンプ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section"&gt;デジャヴミッション マーキングトライアル √&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-07-mgsgz/photo3-a222139d.jpg"&gt;&lt;img alt="&amp;quot;デジャヴ 地図&amp;quot;" src="../../../../../../img/blog/2015-01-07-mgsgz/photo3-a222139d.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;サイボーグ使用&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;開幕後方にある銃と敵マーク取得&lt;/li&gt;
-  &lt;li&gt;南側から出て敵マーク+リフレ銃殺&lt;/li&gt;
-  &lt;li&gt;直進して中央道路から奥の1体、装甲車付近にいる2体（倉庫横、倉庫前）マーキング&lt;/li&gt;
-  &lt;li&gt;少し北に進み装甲車付近（一番装甲車に近い敵）1体マーキング&lt;/li&gt;
-  &lt;li&gt;北を向き見張り台1体、その下1体&lt;/li&gt;
-  &lt;li&gt;ヘリポに出て、真東1体（スタート地点北側から出るといるやつ）、ヘリ前2体、監視カメラ1体、キャットワーク2体&lt;/li&gt;
-  &lt;li&gt;西側から基地にはいってゲート前1体マーク&lt;/li&gt;
-  &lt;li&gt;そのまま北側の基地で1体マーク&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;計 16体
-※ 思い出しながら空でかいてるので正確じゃないかも&lt;/p&gt;
-
-&lt;h3 id="section-1"&gt;ジャメヴミッション マーキングトライアル √&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-07-mgsgz/photo4-46321850.jpg"&gt;&lt;img alt="&amp;quot;デジャヴ 地図&amp;quot;" src="../../../../../../img/blog/2015-01-07-mgsgz/photo4-46321850.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;開幕直進見張り台真横あたりから振り向き見張り台をマーキング（青2）&lt;/li&gt;
-  &lt;li&gt;気持ち進み真横キャンプ内1体マーキング（青3）&lt;/li&gt;
-  &lt;li&gt;直進して見張り台ライト1体マーキング（青4）&lt;/li&gt;
-  &lt;li&gt;電信柱？付近からライト下1体マーキング（青5）&lt;/li&gt;
-  &lt;li&gt;真後ろのゲート前1体マーキング（青5）&lt;/li&gt;
-  &lt;li&gt;西側から侵入してリフレで3体マーキング+ドラム缶で倒すと監視カメラ壊す（青6）&lt;/li&gt;
-  &lt;li&gt;パス部屋マーキング（マーク優先、リフレ発動+未発見の場合放置）&lt;/li&gt;
-  &lt;li&gt;階段敵リフレ射殺+監視カメラ&lt;/li&gt;
-  &lt;li&gt;車乗車2体が入り口付近に見えたら1分30切り 既に機関銃を超えてた場合30秒over&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;計 12体
-※ 思い出しながら空でかいてるので正確じゃないかも&lt;/p&gt;
-
-&lt;h2 id="section-2"&gt;したいこと&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;各マーキングトライアル
-    &lt;ul&gt;
-      &lt;li&gt;GZ Normal BEST30狙う&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;他、2桁狙えそうなもの&lt;/li&gt;
-  &lt;li&gt;MAP作り？&lt;/li&gt;
-  &lt;li&gt;iDROID連携&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h3 id="mgo3"&gt;MGO3参考情報&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://matome.naver.jp/odai/2141788486247026101"&gt;MGO3&lt;/a&gt;&lt;/p&gt;

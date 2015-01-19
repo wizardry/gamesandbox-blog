@@ -5,16 +5,111 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-16T00:00:00+09:00</updated>
+  <updated>2015-01-19T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
     <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/19/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/01/19/reue/</id>
+    <published>2015-01-19T00:00:00+09:00</published>
+    <updated>2015-01-19T16:45:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DEEP 全ステージクリア&lt;/li&gt;
+  &lt;li&gt;青ネーム&lt;/li&gt;
+  &lt;li&gt;DARK ステージ9までTB取得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;過去ログ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DARK全ステージクリア&lt;/li&gt;
+  &lt;li&gt;INFERNOクリア&lt;/li&gt;
+  &lt;li&gt;スキャントロフィー取得&lt;/li&gt;
+  &lt;li&gt;ソラリウムトロフィー取得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-1"&gt;レイド&lt;/h3&gt;
+
+&lt;p&gt;Abyss敵堅い上に多すぎて何もできん。
+TBアイテム？も欲しい為レベリングと装備集め。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;CSはAbyssからTBで取得可能？
+ダメージはIIIがDEEP17～Abyss1～
+IVがAbyss10～
+VはAbyss18～&lt;/p&gt;
+
+&lt;h2 id="section-2"&gt;トロフィー一覧&lt;/h2&gt;
+
+&lt;p&gt;【CAMPAIGN】一度もゲームオーバーにならずにクリア(難易度NORMAL以上)
+【CAMPAIGN】秘密の手形を30個スキャンする
+【CAMPAIGN】レイチェルが食堂に到達する前に倒す
+【CAMPAIGN】電撃グレネードを使って敵を3体まとめて倒す
+【CAMPAIGN】ロケットランチャーを使わずにマラコーダを倒す
+【CAMPAIGN】最大までためた体術を10回以上決める
+【RAID MODE】難易度DARKの全てのステージをSランクでクリア
+【RAID MODE】難易度DEEPの全てのステージをSランクでクリア
+【RAID MODE】難易度ABYSSを全てクリア
+【RAID MODE】難易度ABYSSの全てのステージをSランクでクリア
+【RAID MODE】THE GHOST SHIPをクリア
+【RAID MODE】レベルが40以上になる
+【RAID MODE】レベルが50になる
+【RAID MODE】敵を10000体以上倒す
+【RAID MODE】一度の攻撃で100000ダメージを与える
+【RAID MODE】推奨レベルより5低いレベルでクリア
+【RAID MODE】ボーナスを150個獲得&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;【RAID MODE】レベルが30以上になる -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】激レアクラスの武器を全て入手する -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】STOREの利用額が1000000BPを越える -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを100個獲得 -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DEEPを全てクリア -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを50個獲得 -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが20以上になる -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DARKを全てクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度INFERNALでCAMPAIGNをクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】全ての敵(全種)をスキャンする -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】ソラリウムで泳ぐ -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode1,2,3をクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode4,5,6をクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode7,8,9をクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode10,11,12をクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度CASUAL以上でCAMPAIGNをクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度NORMAL以上でCAMPAIGNをクリア -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】秘密の手形を1個スキャンする -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】秘密の手形を15個以上スキャンする -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】初めて敵をスキャンした -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】敵を150体以上倒す -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】敵の弾をナイフで打ち落とす -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】ヘッドショットでウーズを10体倒す -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】スキャグデッドの即死攻撃を回避する -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】スカルミリオーネを分離させずに倒す -&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】20回以上回避する -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが5以上になる -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが10以上になる -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】二人同時に最大まで溜めた体術を決める(オンライン限定) -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】激レアクラスの武器を入手する -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】初めてノーダメージボーナスを達成 -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】初めてトリニティボーナスを達成 -&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを10個獲得 -&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/16/reue/"/>
     <id>http://blog.url.com/blog/biohazardr-ue/2015/01/16/reue/</id>
     <published>2015-01-16T00:00:00+09:00</published>
-    <updated>2015-01-16T16:24:26+09:00</updated>
+    <updated>2015-01-16T17:12:47+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -34,7 +129,7 @@
 
 &lt;h3 id="section-1"&gt;レイド&lt;/h3&gt;
 
-&lt;p&gt;DEEP前半まで。
+&lt;p&gt;DEEP8stまで。
 推奨LvよりLv低いため敵堅過ぎて武器収集。
 武器収集しながらTB狙い。&lt;/p&gt;
 
@@ -189,23 +284,6 @@ VはAbyss18～&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>kagerou_dp</title>
-    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/"/>
-    <id>http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/</id>
-    <published>2015-01-13T00:00:00+09:00</published>
-    <updated>2015-01-13T12:24:58+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
-
-&lt;p&gt;Chap5まで。
-Chap4のBossで発狂しすぎて精根尽きる。&lt;/p&gt;
-
-&lt;p&gt;気が向いたタイミングで徐々にやってく。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/13/reue/"/>
     <id>http://blog.url.com/blog/biohazardr-ue/2015/01/13/reue/</id>
@@ -308,6 +386,23 @@ PS+のフリプによりDL。&lt;/p&gt;
   </entry>
   <entry>
     <title>kagerou_dp</title>
+    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/"/>
+    <id>http://blog.url.com/blog/kageroudp/2015/01/13/kagerou/</id>
+    <published>2015-01-13T00:00:00+09:00</published>
+    <updated>2015-01-13T12:24:58+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;p&gt;Chap5まで。
+Chap4のBossで発狂しすぎて精根尽きる。&lt;/p&gt;
+
+&lt;p&gt;気が向いたタイミングで徐々にやってく。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>kagerou_dp</title>
     <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/"/>
     <id>http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/</id>
     <published>2015-01-09T00:00:00+09:00</published>
@@ -339,79 +434,6 @@ PS+のフリプによりDL。&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href="http://kageroudp.wiki.fc2.com/"&gt;影牢 ダークサイドプリンセス 攻略&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>metalgaresolid5gz</title>
-    <link rel="alternate" href="http://blog.url.com/blog/mgs5-gz/2015/01/08/mgsgz/"/>
-    <id>http://blog.url.com/blog/mgs5-gz/2015/01/08/mgsgz/</id>
-    <published>2015-01-08T00:00:00+09:00</published>
-    <updated>2015-01-08T13:26:01+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;前置き&lt;/h2&gt;
-
-&lt;p&gt;playstation plus でバイオリベと影牢が出てたからやりたい。
-GZ放置するかも。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-08-mgsgz/photo1-cee73ebc.jpg"&gt;&lt;img alt="&amp;quot;メイン・ミッション28位&amp;quot;" src="../../../../../../img/blog/2015-01-08-mgsgz/photo1-cee73ebc.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="log-add"&gt;log Add&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;帰還兵 マーキングトライアル 28位&lt;/li&gt;
-  &lt;li&gt;メインミッション マーキングトライアル 28位&lt;/li&gt;
-  &lt;li&gt;デジャヴミッション マーキングトライアル 21位&lt;/li&gt;
-  &lt;li&gt;ジャメヴミッション マーキングトライアル 22位&lt;/li&gt;
-  &lt;li&gt;トロフィーコンプ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-1"&gt;メインミッション マーキングトライアル √&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-08-mgsgz/photo2-2fdebd0f.jpg"&gt;&lt;img alt="&amp;quot;GZ 地図&amp;quot;" src="../../../../../../img/blog/2015-01-08-mgsgz/photo2-2fdebd0f.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;開幕NVにしながらトビラに向けてダッシュ。（ダッシュしないと解錠する際にライトで発見される）&lt;/li&gt;
-  &lt;li&gt;奥側に発見されてリフレ発動、1、2倒して3をマーキング&lt;/li&gt;
-  &lt;li&gt;扉出てすぐ見張り台の4,5をマーキング&lt;/li&gt;
-  &lt;li&gt;(2)から7,6をマーキング&lt;/li&gt;
-  &lt;li&gt;8を早めに気付かせてリフレ発動（9と同時発動しないように）&lt;/li&gt;
-  &lt;li&gt;9でリフレ発動、9と10処理&lt;/li&gt;
-  &lt;li&gt;11と12もリフレ処理&lt;/li&gt;
-  &lt;li&gt;処理後すぐに北を向き、道路左右の13,14、少し引いて15をマーキング&lt;/li&gt;
-  &lt;li&gt;(3)テント二つ目と三つ目の隙間から16,17をマーキング&lt;/li&gt;
-  &lt;li&gt;18をリフレ処理&lt;/li&gt;
-  &lt;li&gt;19,20をマーキングして戻る&lt;/li&gt;
-  &lt;li&gt;21,22をリフレ処理。（エイムしんどいので21から発動するように調整）&lt;/li&gt;
-  &lt;li&gt;(4)から管制塔23～西入口24、ペア行動してる25、26をマーキング&lt;/li&gt;
-  &lt;li&gt;27,28と29,30をそれぞれペアでリフレ処理&lt;/li&gt;
-  &lt;li&gt;31は出来ればリフレ処理してカメラも壊す&lt;/li&gt;
-  &lt;li&gt;32-35はマーキングのみ&lt;/li&gt;
-  &lt;li&gt;36をリフレ処理後すぐ2Fに上りリフレ処理&lt;/li&gt;
-  &lt;li&gt;倉庫後ろ側を周り38リフレ処理後双眼鏡で39マーキング&lt;/li&gt;
-  &lt;li&gt;番振りして無い1体（ジープ）、2、21は時間で圏外移動する。
- ジープは2分以内にはどこかにいくためマーキングせず。リトライする場合はリスポンするのでマーキングが必要？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;計 39体&lt;/p&gt;
-
-&lt;h3 id="section-2"&gt;帰還兵ミッション マーキングトライアル √&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href="../../../../../../img/blog/2015-01-08-mgsgz/photo3-3bb87de1.jpg"&gt;&lt;img alt="&amp;quot;帰還兵 地図&amp;quot;" src="../../../../../../img/blog/2015-01-08-mgsgz/photo3-3bb87de1.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;ヘリポ周り適当です。&lt;/p&gt;
-
-&lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p&gt;開幕1、収容所前1,坂登ってるやつ1,車2,真向かい1,キャンぷ入ろうとするやつ1,検問1,南下して通路側見て目一行3,見張り台とその付近2、gzスタ一付近から、見張り台1車横1キャンプ側奥2手前1,中央道路見張り台1ヘリポ適当4くらい、管制北側1,南に4+指一行3の計31?&lt;/p&gt;&amp;mdash; うぃず (@wiz_rein) &lt;a href="https://twitter.com/wiz_rein/status/552898272235253760"&gt;2015, 1月 7&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&lt;h2 id="section-3"&gt;したいこと&lt;/h2&gt;
-
-&lt;h3 id="mgo3"&gt;MGO3参考情報&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://matome.naver.jp/odai/2141788486247026101"&gt;MGO3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;エミュ鯖で旧MGOできるっぽい？&lt;/p&gt;
-
 </content>
   </entry>
 </feed>

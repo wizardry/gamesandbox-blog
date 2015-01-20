@@ -5,10 +5,109 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-01-19T00:00:00+09:00</updated>
+  <updated>2015-01-20T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/20/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/01/20/reue/</id>
+    <published>2015-01-20T00:00:00+09:00</published>
+    <updated>2015-01-20T14:15:47+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;忘れた。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;DARK中途半端にTB進めてる。
+ABYSSやってるけど敵多すぎ硬すぎ。&lt;/p&gt;
+
+&lt;p&gt;過去ログ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;青ネーム&lt;/li&gt;
+  &lt;li&gt;DEEP 全ステージクリア&lt;/li&gt;
+  &lt;li&gt;DARK全ステージクリア&lt;/li&gt;
+  &lt;li&gt;INFERNOクリア&lt;/li&gt;
+  &lt;li&gt;スキャントロフィー取得&lt;/li&gt;
+  &lt;li&gt;ソラリウムトロフィー取得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;CSはAbyssからTBで取得可能？
+ダメージはIIIがDEEP17～Abyss1～
+IVがAbyss10～
+VはAbyss18～&lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;トロフィー一覧&lt;/h2&gt;
+
+&lt;h3 id="section-2"&gt;未取得&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;【CAMPAIGN】一度もゲームオーバーにならずにクリア(難易度NORMAL以上)&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】秘密の手形を30個スキャンする&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】レイチェルが食堂に到達する前に倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】電撃グレネードを使って敵を3体まとめて倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】ロケットランチャーを使わずにマラコーダを倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】最大までためた体術を10回以上決める&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DARKの全てのステージをSランクでクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DEEPの全てのステージをSランクでクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度ABYSSを全てクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度ABYSSの全てのステージをSランクでクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】THE GHOST SHIPをクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが40以上になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが50になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】敵を10000体以上倒す&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】一度の攻撃で100000ダメージを与える&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】推奨レベルより5低いレベルでクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを150個獲得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="section-3"&gt;取得済&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;【RAID MODE】レベルが30以上になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】激レアクラスの武器を全て入手する&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】STOREの利用額が1000000BPを越える&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを100個獲得&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DEEPを全てクリア&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを50個獲得&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが20以上になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】難易度DARKを全てクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度INFERNALでCAMPAIGNをクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】全ての敵(全種)をスキャンする&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】ソラリウムで泳ぐ&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode1,2,3をクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode4,5,6をクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode7,8,9をクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】Episode10,11,12をクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度CASUAL以上でCAMPAIGNをクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】難易度NORMAL以上でCAMPAIGNをクリア&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】秘密の手形を1個スキャンする&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】秘密の手形を15個以上スキャンする&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】初めて敵をスキャンした&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】敵を150体以上倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】敵の弾をナイフで打ち落とす&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】ヘッドショットでウーズを10体倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】スキャグデッドの即死攻撃を回避する&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】スカルミリオーネを分離させずに倒す&lt;/li&gt;
+  &lt;li&gt;【CAMPAIGN】20回以上回避する&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが5以上になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】レベルが10以上になる&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】二人同時に最大まで溜めた体術を決める(オンライン限定)&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】激レアクラスの武器を入手する&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】初めてノーダメージボーナスを達成&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】初めてトリニティボーナスを達成&lt;/li&gt;
+  &lt;li&gt;【RAID MODE】ボーナスを10個獲得&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/01/19/reue/"/>
@@ -399,41 +498,6 @@ PS+のフリプによりDL。&lt;/p&gt;
 Chap4のBossで発狂しすぎて精根尽きる。&lt;/p&gt;
 
 &lt;p&gt;気が向いたタイミングで徐々にやってく。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>kagerou_dp</title>
-    <link rel="alternate" href="http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/"/>
-    <id>http://blog.url.com/blog/kageroudp/2015/01/09/kagerou/</id>
-    <published>2015-01-09T00:00:00+09:00</published>
-    <updated>2015-01-09T11:53:57+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
-
-&lt;p&gt;とりあえずChapter2の最後までやった。
-敵をフリーで全捕獲とかしてると意外に時間が掛かる。&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;感想&lt;/h2&gt;
-
-&lt;p&gt;PS2の影牢 Dark illusionと比較して、&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;特定時に相手を押せなくなった&lt;/li&gt;
-  &lt;li&gt;罠にかけた際、敵の向きが固定じゃなくなった&lt;/li&gt;
-  &lt;li&gt;見た目はPS3っぽい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;というのが率直な感想。
-他、序盤罠のバリエーションが少なくて飽きやすい。
-後半になれば設置罠の熟知度と罠のバリエーションによってArkゲーに徹することも出来るかも。&lt;/p&gt;
-
-&lt;p&gt;一旦GZに戻ってもいいかもしれない。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href="http://kageroudp.wiki.fc2.com/"&gt;影牢 ダークサイドプリンセス 攻略&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

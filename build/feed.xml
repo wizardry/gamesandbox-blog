@@ -5,16 +5,204 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-02-10T00:00:00+09:00</updated>
+  <updated>2015-02-16T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
     <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/</id>
+    <published>2015-02-16T00:00:00+09:00</published>
+    <updated>2015-02-16T16:01:01+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;トロフィーコンプ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;トロフィーコンプしたので糸冬。アンインストしました。&lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;雑感&lt;/h2&gt;
+
+&lt;p&gt;マーセ至上主義のためレイドは合わなかった。
+→武器やパーツが実力の8割を占める。
+→残り2割は出現位置の把握。&lt;/p&gt;
+
+&lt;p&gt;キャンペーンは１周でおなかいっぱい。
+→3DSと合わせて6周くらいしたのでさすがに飽きた。&lt;/p&gt;
+
+&lt;p&gt;次はマインクラフトやりたい。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>dmmemo</title>
+    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/16/drummania/"/>
+    <id>http://blog.url.com/blog/gitadora/2015/02/16/drummania/</id>
+    <published>2015-02-16T00:00:00+09:00</published>
+    <updated>2015-02-16T15:58:51+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;D-SP:5445.46&lt;/p&gt;
+
+&lt;h2 id="section"&gt;成果&lt;/h2&gt;
+
+&lt;p&gt;100秒ADV Miss4とかくらい&lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;いろいろ&lt;/h2&gt;
+
+&lt;p&gt;7前半初見がそこそこ見えるようにはなってきた。
+しかし力むので特攻気味。&lt;/p&gt;
+
+&lt;p&gt;特攻気味の曲が平気で対象入りして困ってる感じ。&lt;/p&gt;
+
+&lt;h2 id="memo"&gt;memo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;とりあえずグラデつけろ！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="avg"&gt;6000AVGからいけそうなもの&lt;/h3&gt;
+
+&lt;p&gt;やってみる（未記入はEXT）&lt;/p&gt;
+
+&lt;p&gt;いけそう&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Least 100sec&lt;/li&gt;
+  &lt;li&gt;UNITED FIRE&lt;/li&gt;
+  &lt;li&gt;Summer ADV
+** 3連系。高達成で対象入り&lt;/li&gt;
+  &lt;li&gt;虹の彼方&lt;/li&gt;
+  &lt;li&gt;優しさの理由&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;きつい
+* でんでんぱっしょん
+** 刻み。
+* Summer Holiday
+** Aはいけるけど達成出しにくい
+* OVERHEAT -Type GD-
+* SAVIOR OF SONG&lt;/p&gt;
+
+&lt;p&gt;むり
+* X-plan
+** 難しすぎ
+* デパチャ
+** 最初の裏バス地帯がズレまくる
+* 101回目の呪い
+** クソ譜面でした
+* マーマー&lt;/p&gt;
+
+&lt;p&gt;まだやってない
+* think about you
+* 幻想系世界修復少女
+* Shining Wings
+* Raining Sunshine
+* Chronos
+* drop
+* Rush!!
+* Brown blizzard ADV&lt;/p&gt;
+
+&lt;h3 id="fc"&gt;FC目標群&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style="text-align: center"&gt;確度&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;曲&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;N/O&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;ナメクジ&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;トキシック&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;果たし状&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;空言の海&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;SakuraSunrise&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Lovery,Merry-Go-Round&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;LC攻略中&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;four-leaf&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;overview&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;MONSTER TREE&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;低&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;童話回廊&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: center"&gt;?&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;ぐっばい my　cybaby&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
+      &lt;td style="text-align: left"&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;紫グラ→5500 / avg 110&lt;/p&gt;
+
+&lt;p&gt;赤→6000 / avg 120&lt;/p&gt;
+
+&lt;p&gt;赤グラ→6500 / avg 130&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>biohazardReveUE</title>
     <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/02/10/reue/"/>
     <id>http://blog.url.com/blog/biohazardr-ue/2015/02/10/reue/</id>
     <published>2015-02-10T00:00:00+09:00</published>
-    <updated>2015-02-10T13:00:43+09:00</updated>
+    <updated>2015-02-16T16:00:48+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -295,27 +483,6 @@
 </content>
   </entry>
   <entry>
-    <title>extroopers</title>
-    <link rel="alternate" href="http://blog.url.com/blog/extroopers/2015/02/06/extroupers/"/>
-    <id>http://blog.url.com/blog/extroopers/2015/02/06/extroupers/</id>
-    <published>2015-02-06T00:00:00+09:00</published>
-    <updated>2015-02-06T15:11:41+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;PS+フリプにきたのでやってみました。&lt;/p&gt;
-
-&lt;h2 id="section"&gt;雑感&lt;/h2&gt;
-
-&lt;p&gt;チュートリアル長すぎ。いつになったらハクスラっぽくなるんでしょう。
-進行状況はエピ1後半はいったとこくらい。&lt;/p&gt;
-
-&lt;p&gt;ただ、ハクスラするなら先月のバイオリベレーションUEでレイドやってたほうがまだマシ。
-→レイドもつまらんのやけど…&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
     <title>dmmemo</title>
     <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/06/drummania/"/>
     <id>http://blog.url.com/blog/gitadora/2015/02/06/drummania/</id>
@@ -490,263 +657,24 @@
 </content>
   </entry>
   <entry>
-    <title>dmmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/05/drummania/"/>
-    <id>http://blog.url.com/blog/gitadora/2015/02/05/drummania/</id>
-    <published>2015-02-05T00:00:00+09:00</published>
-    <updated>2015-02-05T18:16:16+09:00</updated>
+    <title>extroopers</title>
+    <link rel="alternate" href="http://blog.url.com/blog/extroopers/2015/02/06/extroupers/"/>
+    <id>http://blog.url.com/blog/extroopers/2015/02/06/extroupers/</id>
+    <published>2015-02-06T00:00:00+09:00</published>
+    <updated>2015-02-06T15:11:41+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;D-SP:5236.77&lt;/p&gt;
+    <content type="html">&lt;p&gt;PS+フリプにきたのでやってみました。&lt;/p&gt;
 
-&lt;h2 id="section"&gt;いろいろ&lt;/h2&gt;
+&lt;h2 id="section"&gt;雑感&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;タム反応は縁っぽい&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;跳ね返りは引続き。
-** チカラADVは余裕だけどEXTになるとなぜか出来ない。
-** 腕以外の連携があった際に脱力出来る必要がある。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;LP練習中
-** モナリザは閉店安定
-** 百鬼BSCやいのこい、君の知らない～、homesickで練習中&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;チュートリアル長すぎ。いつになったらハクスラっぽくなるんでしょう。
+進行状況はエピ1後半はいったとこくらい。&lt;/p&gt;
 
-&lt;h3 id="section-1"&gt;過去ログ&lt;/h3&gt;
+&lt;p&gt;ただ、ハクスラするなら先月のバイオリベレーションUEでレイドやってたほうがまだマシ。
+→レイドもつまらんのやけど…&lt;/p&gt;
 
-&lt;p&gt;跳ね返りを利用した刻みでチカラADVくらいはかなり安定するようになったけど、
-大切な人クラスになってくると何もできなくなる。&lt;/p&gt;
-
-&lt;p&gt;→跳ね返りよりアップダウン意識してやってみる。&lt;/p&gt;
-
-&lt;p&gt;叩き方が悪くてタム周りの反応が悪い。&lt;/p&gt;
-
-&lt;p&gt;→意識するくらいしか改善方法思いつかない。&lt;/p&gt;
-
-&lt;p&gt;そろそろ適性難易度に来てしまい特攻厳しい。
-→なのに紫前半。クソってる。&lt;/p&gt;
-
-&lt;h2 id="memo"&gt;memo&lt;/h2&gt;
-
-&lt;h3 id="avg"&gt;6000AVGからいけそうなもの&lt;/h3&gt;
-
-&lt;p&gt;やってみる（未記入はEXT）&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;でんでんぱっしょん&lt;/li&gt;
-  &lt;li&gt;UNITED FIRE&lt;/li&gt;
-  &lt;li&gt;think about you&lt;/li&gt;
-  &lt;li&gt;幻想系世界修復少女&lt;/li&gt;
-  &lt;li&gt;101回目の呪い&lt;/li&gt;
-  &lt;li&gt;デパチャ&lt;/li&gt;
-  &lt;li&gt;Shining Wings&lt;/li&gt;
-  &lt;li&gt;Raining Sunshine&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Summer ADV&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;SAVIOR OF SONG&lt;/li&gt;
-  &lt;li&gt;Chronos&lt;/li&gt;
-  &lt;li&gt;drop&lt;/li&gt;
-  &lt;li&gt;Summer Holiday&lt;/li&gt;
-  &lt;li&gt;Rush!!&lt;/li&gt;
-  &lt;li&gt;X-plan&lt;/li&gt;
-  &lt;li&gt;OVERHEAT -Type GD-&lt;/li&gt;
-  &lt;li&gt;The Least 100sec&lt;/li&gt;
-  &lt;li&gt;虹の彼方&lt;/li&gt;
-  &lt;li&gt;Brown blizzard ADV&lt;/li&gt;
-  &lt;li&gt;ロレッタ&lt;/li&gt;
-  &lt;li&gt;マーマー&lt;/li&gt;
-  &lt;li&gt;優しさの理由&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="fc"&gt;FC目標群&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style="text-align: center"&gt;確度&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;曲&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;N/O&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ナメクジ&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;トキシック&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;果たし状&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;空言の海&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;SakuraSunrise&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;Lovery,Merry-Go-Round&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;four-leaf&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;overview&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;MONSTER TREE&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;低&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;童話回廊&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;?&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ぐっばい my　cybaby&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;紫グラ→5500 / avg 110&lt;/p&gt;
-
-&lt;p&gt;赤→6000 / avg 120&lt;/p&gt;
-
-&lt;p&gt;赤グラ→6500 / avg 130&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>biohazardReveUE</title>
-    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/02/05/reue/"/>
-    <id>http://blog.url.com/blog/biohazardr-ue/2015/02/05/reue/</id>
-    <published>2015-02-05T00:00:00+09:00</published>
-    <updated>2015-02-05T17:57:11+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;レベルキャンセラー 1個目取得。
-** ＠2つほしい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;新規Sは火力足りなくて無理。（Abyss ゼノビアとサイドデッキのところ）
-武器がないのでAbyss STAGE 9 でTB練習しながらまわしてる。
-コルヌコピア、グレランを取得出来たらオートロ、グラトニー狙いでGS挑戦。&lt;/p&gt;
-
-&lt;p&gt;過去ログ&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Abyss クリア トロフィー取得&lt;/li&gt;
-  &lt;li&gt;Abyss S埋め（残2ステ）&lt;/li&gt;
-  &lt;li&gt;青ネーム&lt;/li&gt;
-  &lt;li&gt;DARK ALL S トロフィー取得。&lt;/li&gt;
-  &lt;li&gt;DEEP 全ステージクリア&lt;/li&gt;
-  &lt;li&gt;DARK 全ステージSクリア&lt;/li&gt;
-  &lt;li&gt;CAMPAIGN トロフィーコンプ&lt;/li&gt;
-  &lt;li&gt;DEEP ALL S トロフィー取得。&lt;/li&gt;
-  &lt;li&gt;ボーナス150個トロフィー取得。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-1"&gt;トロフィー一覧&lt;/h2&gt;
-
-&lt;h3 id="section-2"&gt;未取得&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;【RAID MODE】難易度ABYSSの全てのステージをSランクでクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】THE GHOST SHIPをクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】敵を10000体以上倒す&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが50になる&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-3"&gt;取得済&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;【RAID MODE】難易度ABYSSを全てクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが40以上になる&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】難易度DEEPの全てのステージをSランクでクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】一度の攻撃で100000ダメージを与える&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】推奨レベルより5低いレベルでクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】ボーナスを150個獲得&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】難易度DARKの全てのステージをSランクでクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが30以上になる&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】激レアクラスの武器を全て入手する&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】STOREの利用額が1000000BPを越える&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】ボーナスを100個獲得&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】難易度DEEPを全てクリア&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】ボーナスを50個獲得&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが20以上になる&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】難易度DARKを全てクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】一度もゲームオーバーにならずにクリア(難易度NORMAL以上)&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】秘密の手形を30個スキャンする&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】レイチェルが食堂に到達する前に倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】電撃グレネードを使って敵を3体まとめて倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】ロケットランチャーを使わずにマラコーダを倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】最大までためた体術を10回以上決める&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】難易度INFERNALでCAMPAIGNをクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】全ての敵(全種)をスキャンする&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】ソラリウムで泳ぐ&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】Episode1,2,3をクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】Episode4,5,6をクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】Episode7,8,9をクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】Episode10,11,12をクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】難易度CASUAL以上でCAMPAIGNをクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】難易度NORMAL以上でCAMPAIGNをクリア&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】秘密の手形を1個スキャンする&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】秘密の手形を15個以上スキャンする&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】初めて敵をスキャンした&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】敵を150体以上倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】敵の弾をナイフで打ち落とす&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】ヘッドショットでウーズを10体倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】スキャグデッドの即死攻撃を回避する&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】スカルミリオーネを分離させずに倒す&lt;/li&gt;
-  &lt;li&gt;【CAMPAIGN】20回以上回避する&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが5以上になる&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】レベルが10以上になる&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】二人同時に最大まで溜めた体術を決める(オンライン限定)&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】激レアクラスの武器を入手する&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】初めてノーダメージボーナスを達成&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】初めてトリニティボーナスを達成&lt;/li&gt;
-  &lt;li&gt;【RAID MODE】ボーナスを10個獲得&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>

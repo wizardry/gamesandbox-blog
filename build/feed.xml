@@ -5,10 +5,167 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-02-18T00:00:00+09:00</updated>
+  <updated>2015-02-19T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/19/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/02/19/minecraft/</id>
+    <published>2015-02-19T00:00:00+09:00</published>
+    <updated>2015-02-19T20:26:05+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;h3 id="section-1"&gt;ブランチマイニングの環境構築。&lt;/h3&gt;
+
+&lt;p&gt;真下堀で岩盤層には意外に早く到達。
+（体感比較はテラリア）&lt;/p&gt;
+
+&lt;p&gt;2列通して片方は梯子を設置、
+もう片方は着地地点にY4マスの衝撃吸収用プールを設置。&lt;/p&gt;
+
+&lt;p&gt;周りが溶岩+黒曜石だらけで拠点をつくるのにすこし手間取り。
+けどなんとか溶岩付近にカマドが6 作業台、ベッド、チェスト小それぞれ1個を納めれる空間が完成。
+チェスト大を大量に設置するスペースが黒曜石のせいで取れなかった為、2階を作ってそこにチェスト大を6個設置。
+各署に無限水源を設置して環境構築終了。&lt;/p&gt;
+
+&lt;p&gt;※ブランチマイニング中にチェスト部屋貫通してしまったので次回以降気をつける。&lt;/p&gt;
+
+&lt;p&gt;鉄は99スタックすぐ溜まる感じ。
+レッドストーンは腐るほどたまる。土か。
+金、ダイヤモンドはそれでもなかなか見つからない。&lt;/p&gt;
+
+&lt;p&gt;ダイヤツルハシ作ったけどスタックできるまでチェストに封印。&lt;/p&gt;
+
+&lt;p&gt;ブランチマイニングは中心点から四角形にやっていこうかと思ったが溶岩により規則性を保てないので断念。
+松明つける、真横に立つ、4マス掘る進む　を繰り返して、
+溶岩にぶち当たったら左右に方向転換してます。&lt;/p&gt;
+
+&lt;h3 id="section-2"&gt;小麦畑の拡張&lt;/h3&gt;
+
+&lt;p&gt;露天状態でいつのまにか土が固まってたり、水が凍ってたりしたので拡張と整備。
+畑自体はU字でかわらず、&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt;水&lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;石&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt;水&lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;石&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;として、石に松明設置しまくって熱源と光源確保。
+これを3列と2段作成。
+2階を作成するのにブランチマイニング産、石豆腐で囲みました。&lt;/p&gt;
+
+&lt;p&gt;今はひたすら小麦増産中。&lt;/p&gt;
+
+&lt;h3 id="wip"&gt;牧場の作成[WIP]&lt;/h3&gt;
+
+&lt;p&gt;牛と羊を最低限揃えたいので、ブランチマイニングで溜まった石や土を利用して牧場を作ってます。
+今野外だけど脱走リスクを考えると屋内の方が良さそう。
+一応今は柵を2列設置してる。&lt;/p&gt;
+
+&lt;p&gt;素材小屋、枠、枠
+─────
+農場豆腐&lt;/p&gt;
+
+&lt;p&gt;という図になっている。&lt;/p&gt;
+
+&lt;h2 id="section-3"&gt;今後&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;牧場を完成させる。&lt;/li&gt;
+  &lt;li&gt;引続きブランチマイニング&lt;/li&gt;
+  &lt;li&gt;黒曜石系レシピの作成
+    &lt;ul&gt;
+      &lt;li&gt;エンチャントテーブル、エンダーチェスト、ビーコンブロック&lt;/li&gt;
+      &lt;li&gt;minで15個。チェストを2個にした場合23個。&lt;/li&gt;
+      &lt;li&gt;ネザーポータル作成にさらに14個必要&lt;/li&gt;
+      &lt;li&gt;計37個。1スタックあればよいか。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ダイヤ集まり次第ツルハシ＞各装備＞オノで作成する。スタックは各2個以上。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ある程度鉄が溜まったらトロッコの準備をする。
+    &lt;ul&gt;
+      &lt;li&gt;第一拠点-地下拠点&lt;/li&gt;
+      &lt;li&gt;第一拠点-村&lt;/li&gt;
+      &lt;li&gt;第一拠点-エンドポータル&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;装備（ダイヤ）が完了したらネザーを目指す。&lt;/li&gt;
+  &lt;li&gt;ネザー後はエンドを目指す。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section-4"&gt;気付き&lt;/h2&gt;
+
+&lt;p&gt;拠点の天地は偶数マスでmin5マスが理想？
+→チェストが開閉に縦２マス必要なため&lt;/p&gt;
+
+&lt;p&gt;地下拠点は溶岩のせいで思うどおりに進まない。
+考慮すべし。&lt;/p&gt;
+
+&lt;h2 id="section-5"&gt;このワールドの目標&lt;/h2&gt;
+
+&lt;p&gt;・FF6リルムドットを作成する。
+・シナリオクリアする&lt;/p&gt;
+
+&lt;h2 id="section-6"&gt;メモ&lt;/h2&gt;
+
+&lt;p&gt;水中建築
+http://app.famitsu.com/20140904_434758/&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Minecraft</title>
     <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/18/minecraft/"/>
@@ -181,81 +338,6 @@ http://app.famitsu.com/20140904_434758/&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>biohazardReveUE</title>
-    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/"/>
-    <id>http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/</id>
-    <published>2015-02-16T00:00:00+09:00</published>
-    <updated>2015-02-16T16:01:01+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;トロフィーコンプ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;トロフィーコンプしたので糸冬。アンインストしました。&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;雑感&lt;/h2&gt;
-
-&lt;p&gt;マーセ至上主義のためレイドは合わなかった。
-→武器やパーツが実力の8割を占める。
-→残り2割は出現位置の把握。&lt;/p&gt;
-
-&lt;p&gt;キャンペーンは１周でおなかいっぱい。
-→3DSと合わせて6周くらいしたのでさすがに飽きた。&lt;/p&gt;
-
-&lt;p&gt;次はマインクラフトやりたい。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Minecraft</title>
-    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/16/minecraft/"/>
-    <id>http://blog.url.com/blog/minecraft/2015/02/16/minecraft/</id>
-    <published>2015-02-16T00:00:00+09:00</published>
-    <updated>2015-02-16T17:18:27+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Twitterのフォロワーさんがやっていたのでやりたくなった。
-テラリアでトトロ作って以来&lt;/p&gt;
-
-&lt;p&gt;とりあえずテラリアのノウハウからして以下目標&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;拠点作成
-    &lt;ul&gt;
-      &lt;li&gt;とりあえずシンプルなのからシステム把握して徐々に拡張&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;素材入れ物倉庫作成&lt;/li&gt;
-  &lt;li&gt;素材探索
-    &lt;ol&gt;
-      &lt;li&gt;木&lt;/li&gt;
-      &lt;li&gt;石&lt;/li&gt;
-      &lt;li&gt;金属&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;機関作成
-    &lt;ol&gt;
-      &lt;li&gt;水&lt;/li&gt;
-      &lt;li&gt;植物&lt;/li&gt;
-      &lt;li&gt;動物&lt;/li&gt;
-      &lt;li&gt;溶岩&lt;/li&gt;
-      &lt;li&gt;モンスター&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;ベッド2 イス1 
-入れ物２+看板1　2row 2col
-庭、地下&lt;/p&gt;
-
-&lt;p&gt;→とりあえずリスポン地帯から30*30整地してなんかする。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>dmmemo</title>
     <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/16/drummania/"/>
     <id>http://blog.url.com/blog/gitadora/2015/02/16/drummania/</id>
@@ -415,187 +497,78 @@ http://app.famitsu.com/20140904_434758/&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>dmmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/10/drummania/"/>
-    <id>http://blog.url.com/blog/gitadora/2015/02/10/drummania/</id>
-    <published>2015-02-10T00:00:00+09:00</published>
-    <updated>2015-02-10T13:05:40+09:00</updated>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/16/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/02/16/minecraft/</id>
+    <published>2015-02-16T00:00:00+09:00</published>
+    <updated>2015-02-16T17:18:27+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;D-SP:5295.77&lt;/p&gt;
+    <content type="html">&lt;p&gt;Twitterのフォロワーさんがやっていたのでやりたくなった。
+テラリアでトトロ作って以来&lt;/p&gt;
 
-&lt;h2 id="section"&gt;成果&lt;/h2&gt;
+&lt;p&gt;とりあえずテラリアのノウハウからして以下目標&lt;/p&gt;
 
-&lt;p&gt;特に無し。
-温故知新でいこっ！で初7台S取得くらいか。&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;いろいろ&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;タム反応は縁っぽい&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;跳ね返りは引続き。
-** チカラADVは余裕だけどEXTになるとなぜか出来ない。
-** 腕以外の連携があった際に脱力出来る必要がある。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;拠点作成
+    &lt;ul&gt;
+      &lt;li&gt;とりあえずシンプルなのからシステム把握して徐々に拡張&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;LP練習中
-** モナリザは閉店安定
-** 百鬼BSCやいのこい、君の知らない～、homesickで練習中&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="section-2"&gt;過去ログ&lt;/h3&gt;
-
-&lt;p&gt;跳ね返りを利用した刻みでチカラADVくらいはかなり安定するようになったけど、
-大切な人クラスになってくると何もできなくなる。&lt;/p&gt;
-
-&lt;p&gt;→跳ね返りよりアップダウン意識してやってみる。
-→アップダウンより跳ね返り意識でやってみる&lt;/p&gt;
-
-&lt;p&gt;叩き方が悪くてタム周りの反応が悪い。&lt;/p&gt;
-
-&lt;p&gt;→意識するくらいしか改善方法思いつかない。&lt;/p&gt;
-
-&lt;p&gt;そろそろ適性難易度に来てしまい特攻厳しい。
-→なのに紫前半。クソってる。&lt;/p&gt;
-
-&lt;h2 id="memo"&gt;memo&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;鬼姫繋ぎたい&lt;/li&gt;
-  &lt;li&gt;アニュス繋ぎたい&lt;/li&gt;
-  &lt;li&gt;とりあえずグラデつけろ！&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="avg"&gt;6000AVGからいけそうなもの&lt;/h3&gt;
-
-&lt;p&gt;やってみる（未記入はEXT）&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;UNITED FIRE&lt;/li&gt;
-  &lt;li&gt;think about you&lt;/li&gt;
-  &lt;li&gt;幻想系世界修復少女&lt;/li&gt;
-  &lt;li&gt;Shining Wings&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Raining Sunshine&lt;/p&gt;
+  &lt;li&gt;素材入れ物倉庫作成&lt;/li&gt;
+  &lt;li&gt;素材探索
+    &lt;ol&gt;
+      &lt;li&gt;木&lt;/li&gt;
+      &lt;li&gt;石&lt;/li&gt;
+      &lt;li&gt;金属&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;SAVIOR OF SONG&lt;/li&gt;
-  &lt;li&gt;Chronos&lt;/li&gt;
-  &lt;li&gt;drop&lt;/li&gt;
-  &lt;li&gt;Rush!!&lt;/li&gt;
-  &lt;li&gt;OVERHEAT -Type GD-&lt;/li&gt;
-  &lt;li&gt;The Least 100sec&lt;/li&gt;
-  &lt;li&gt;虹の彼方&lt;/li&gt;
-  &lt;li&gt;Brown blizzard ADV&lt;/li&gt;
-  &lt;li&gt;ロレッタ&lt;/li&gt;
-  &lt;li&gt;マーマー&lt;/li&gt;
-  &lt;li&gt;優しさの理由&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;機関作成
+    &lt;ol&gt;
+      &lt;li&gt;水&lt;/li&gt;
+      &lt;li&gt;植物&lt;/li&gt;
+      &lt;li&gt;動物&lt;/li&gt;
+      &lt;li&gt;溶岩&lt;/li&gt;
+      &lt;li&gt;モンスター&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id="section-3"&gt;やってみた&lt;/h2&gt;
+&lt;p&gt;ベッド2 イス1 
+入れ物２+看板1　2row 2col
+庭、地下&lt;/p&gt;
+
+&lt;p&gt;→とりあえずリスポン地帯から30*30整地してなんかする。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>biohazardReveUE</title>
+    <link rel="alternate" href="http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/"/>
+    <id>http://blog.url.com/blog/biohazardr-ue/2015/02/16/reue/</id>
+    <published>2015-02-16T00:00:00+09:00</published>
+    <updated>2015-02-16T16:01:01+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;達成したこと&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;でんでんぱっしょん
-** 刻み。&lt;/li&gt;
-  &lt;li&gt;X-plan
-** 難しすぎ&lt;/li&gt;
-  &lt;li&gt;Summer Holiday
-** Aはいけるけど達成出しにくい&lt;/li&gt;
-  &lt;li&gt;デパチャ
-** 最初の裏バス地帯がズレまくる&lt;/li&gt;
-  &lt;li&gt;101回目の呪い
-** クソ譜面でした&lt;/li&gt;
-  &lt;li&gt;Summer ADV
-** 3連系。高達成で対象入り&lt;/li&gt;
+  &lt;li&gt;トロフィーコンプ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id="fc"&gt;FC目標群&lt;/h3&gt;
+&lt;p&gt;トロフィーコンプしたので糸冬。アンインストしました。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style="text-align: center"&gt;確度&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;曲&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;N/O&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ナメクジ&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;トキシック&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;果たし状&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;空言の海&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;SakuraSunrise&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;Lovery,Merry-Go-Round&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;LC攻略中&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;four-leaf&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;overview&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;MONSTER TREE&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;低&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;童話回廊&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;?&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ぐっばい my　cybaby&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h2 id="section-1"&gt;雑感&lt;/h2&gt;
 
-&lt;p&gt;紫グラ→5500 / avg 110&lt;/p&gt;
+&lt;p&gt;マーセ至上主義のためレイドは合わなかった。
+→武器やパーツが実力の8割を占める。
+→残り2割は出現位置の把握。&lt;/p&gt;
 
-&lt;p&gt;赤→6000 / avg 120&lt;/p&gt;
+&lt;p&gt;キャンペーンは１周でおなかいっぱい。
+→3DSと合わせて6周くらいしたのでさすがに飽きた。&lt;/p&gt;
 
-&lt;p&gt;赤グラ→6500 / avg 130&lt;/p&gt;
-
+&lt;p&gt;次はマインクラフトやりたい。&lt;/p&gt;
 </content>
   </entry>
 </feed>

@@ -5,10 +5,136 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-02-23T00:00:00+09:00</updated>
+  <updated>2015-02-24T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/24/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/02/24/minecraft/</id>
+    <published>2015-02-24T00:00:00+09:00</published>
+    <updated>2015-02-24T12:55:51+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;p&gt;初期リスポン拠点から一番近い村はまだ沸き潰しや柵は完ぺきではないが一旦終了。&lt;br /&gt;
+続いていくつかの小洞窟と連結したあげく近隣に大洞窟と空中浮遊している山がある山岳村。&lt;br /&gt;
+あちこちが穴だらけ且つ、生成時に土に埋まって出れない住民が何人かいるので、&lt;br /&gt;
+整地しつつ形状把握。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lチェストの設置&lt;/li&gt;
+  &lt;li&gt;ベッドの設置&lt;/li&gt;
+  &lt;li&gt;作業台の設置&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;までは行い、あとは&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;住宅の拡張&lt;/li&gt;
+  &lt;li&gt;食料の確保&lt;/li&gt;
+  &lt;li&gt;村人の確保と増殖&lt;/li&gt;
+  &lt;li&gt;村の保護&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;をする必要がある。&lt;/p&gt;
+
+&lt;p&gt;気分的に、洞窟側と山側は絶壁を立てて、&lt;br /&gt;
+他の面はフェンスを想定。&lt;br /&gt;
+スイッチ式開閉ドアやトラップドアを視野  &lt;/p&gt;
+
+&lt;p&gt;フェンスはクモ対策もする。&lt;br /&gt;
+→半ブロックを返しにする。&lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;目標&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;拠点の拡充&lt;/li&gt;
+  &lt;li&gt;村ゴーレムの発生&lt;/li&gt;
+  &lt;li&gt;ダイヤなどの金属資源確保&lt;/li&gt;
+  &lt;li&gt;エンチャント&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section-2"&gt;備忘録&lt;/h2&gt;
+
+&lt;p&gt;村の出入り口をドアにすると村人が出て行ってしまう。&lt;/p&gt;
+
+&lt;p&gt;村に欲しい施設&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;宿泊出来る&lt;/li&gt;
+  &lt;li&gt;アイテムを一時保管できる&lt;/li&gt;
+  &lt;li&gt;ツールの作成ができる&lt;/li&gt;
+  &lt;li&gt;食料を確保できる（麦1スタックあればよい？）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;拠点の理想&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;近くに最下層直通通路がある（石材確保）&lt;/li&gt;
+  &lt;li&gt;畜産環境が整っている&lt;/li&gt;
+  &lt;li&gt;畑環境が整っている&lt;/li&gt;
+  &lt;li&gt;植林環境が整っている
+    &lt;ul&gt;
+      &lt;li&gt;一先ずは何か1種類でOK&lt;/li&gt;
+      &lt;li&gt;min4カットとして16個埋めれるとよい。&lt;/li&gt;
+      &lt;li&gt;数個苗木を埋めて骨で成長、伐採をスムーズに行える&lt;/li&gt;
+      &lt;li&gt;骨と苗木確保用のチェストは必須&lt;/li&gt;
+      &lt;li&gt;最終的に全種カバーしたい為拡張しやすい地形に。&lt;/li&gt;
+      &lt;li&gt;巨木にならない工夫をする必要がある。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;各施設へのインフラが整っている。
+    &lt;ul&gt;
+      &lt;li&gt;TTや村、洞窟など&lt;/li&gt;
+      &lt;li&gt;トロッコ、ボート、馬&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ダブルベッド
+    &lt;ul&gt;
+      &lt;li&gt;マルチ用に…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;作物の明るさ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;小麦は明るさレベル9あれば良いらしい＝中心+外塀数か所でよさそう&lt;/p&gt;
+
+&lt;p&gt;きのこは12、11以下で成長らしい。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;序盤の優先順位&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;近辺にサトウキビが生えている場合
+死に戻り前提でMAPを埋めて、死に戻り→リスポン地点に拠点&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;拠点作りまで
+    &lt;ol&gt;
+      &lt;li&gt;木材数個素手で&lt;/li&gt;
+      &lt;li&gt;作業台作成後木のツルハシ&lt;/li&gt;
+      &lt;li&gt;地下を掘って石をmin6個&lt;/li&gt;
+      &lt;li&gt;石のツルハシ、石の斧作成&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;タワー作成&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;整地などで余った土をジャンプ設置で最上階まで積み上げる。&lt;/p&gt;
+
+&lt;p&gt;2スタックあればよい。&lt;/p&gt;
+
+&lt;h2 id="section-3"&gt;メモ&lt;/h2&gt;
+
+&lt;p&gt;水中建築
+http://app.famitsu.com/20140904_434758/&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Minecraft</title>
     <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/23/minecraft/"/>
@@ -477,165 +603,6 @@ http://app.famitsu.com/20140904_434758/&lt;/p&gt;
 降りるのも一苦労だし、降りて歩いたら山になって山を越えたらジャングルでした。残念。
 ジャングルジャングルなワールドで移動手段というものが如何に重要か思い知らされたので、
 別ワールドで交通手段熟考した作りにしたい。&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>dmmemo</title>
-    <link rel="alternate" href="http://blog.url.com/blog/gitadora/2015/02/16/drummania/"/>
-    <id>http://blog.url.com/blog/gitadora/2015/02/16/drummania/</id>
-    <published>2015-02-16T00:00:00+09:00</published>
-    <updated>2015-02-16T15:58:51+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;D-SP:5445.46&lt;/p&gt;
-
-&lt;h2 id="section"&gt;成果&lt;/h2&gt;
-
-&lt;p&gt;100秒ADV Miss4とかくらい&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;いろいろ&lt;/h2&gt;
-
-&lt;p&gt;7前半初見がそこそこ見えるようにはなってきた。
-しかし力むので特攻気味。&lt;/p&gt;
-
-&lt;p&gt;特攻気味の曲が平気で対象入りして困ってる感じ。&lt;/p&gt;
-
-&lt;h2 id="memo"&gt;memo&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;とりあえずグラデつけろ！&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="avg"&gt;6000AVGからいけそうなもの&lt;/h3&gt;
-
-&lt;p&gt;やってみる（未記入はEXT）&lt;/p&gt;
-
-&lt;p&gt;いけそう&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Least 100sec&lt;/li&gt;
-  &lt;li&gt;UNITED FIRE&lt;/li&gt;
-  &lt;li&gt;Summer ADV
-** 3連系。高達成で対象入り&lt;/li&gt;
-  &lt;li&gt;虹の彼方&lt;/li&gt;
-  &lt;li&gt;優しさの理由&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;きつい
-* でんでんぱっしょん
-** 刻み。
-* Summer Holiday
-** Aはいけるけど達成出しにくい
-* OVERHEAT -Type GD-
-* SAVIOR OF SONG&lt;/p&gt;
-
-&lt;p&gt;むり
-* X-plan
-** 難しすぎ
-* デパチャ
-** 最初の裏バス地帯がズレまくる
-* 101回目の呪い
-** クソ譜面でした
-* マーマー&lt;/p&gt;
-
-&lt;p&gt;まだやってない
-* think about you
-* 幻想系世界修復少女
-* Shining Wings
-* Raining Sunshine
-* Chronos
-* drop
-* Rush!!
-* Brown blizzard ADV&lt;/p&gt;
-
-&lt;h3 id="fc"&gt;FC目標群&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style="text-align: center"&gt;確度&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;曲&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;N/O&lt;/th&gt;
-      &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ナメクジ&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;トキシック&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;果たし状&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;空言の海&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;SakuraSunrise&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;高&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;Lovery,Merry-Go-Round&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;LC攻略中&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;four-leaf&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;overview&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;中&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;MONSTER TREE&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;低&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;童話回廊&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;hot&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style="text-align: center"&gt;?&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;ぐっばい my　cybaby&lt;/td&gt;
-      &lt;td style="text-align: left"&gt;old&lt;/td&gt;
-      &lt;td style="text-align: left"&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;紫グラ→5500 / avg 110&lt;/p&gt;
-
-&lt;p&gt;赤→6000 / avg 120&lt;/p&gt;
-
-&lt;p&gt;赤グラ→6500 / avg 130&lt;/p&gt;
 
 </content>
   </entry>

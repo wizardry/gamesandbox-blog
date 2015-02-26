@@ -5,10 +5,89 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-02-24T00:00:00+09:00</updated>
+  <updated>2015-02-26T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/26/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/02/26/minecraft/</id>
+    <published>2015-02-26T00:00:00+09:00</published>
+    <updated>2015-02-26T15:26:48+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;p&gt;山岳村の保護と繁栄ミッションが終了。&lt;br /&gt;
+フェンスと絶壁で固めて沸き潰し。  &lt;/p&gt;
+
+&lt;p&gt;ゴーレムスポーンが結構きつく、&lt;br /&gt;
+予想以上にドアが必要だったため次回に活かす。  &lt;/p&gt;
+
+&lt;p&gt;入口に一部湖を利用した入口がわりとよかったので覚書  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;湖の村側を2マス以上壁にする&lt;/li&gt;
+  &lt;li&gt;湖中を3マス掘り下げる&lt;/li&gt;
+  &lt;li&gt;その先に入口を設置、階段を作成して村内部へ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;クリーパーに破壊されにくく、Mobは水に入ると上がろうとして下にはいかない修正を利用。&lt;br /&gt;
+使い勝手は微妙だけれど秘密通路感が良い。&lt;br /&gt;
+村人がハマらないように注意する。  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次、砂漠村の保護と反映をミッションに移動。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;宿泊&lt;/li&gt;
+  &lt;li&gt;フェンス&lt;/li&gt;
+  &lt;li&gt;ツール生成&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が完了。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;食料&lt;/li&gt;
+  &lt;li&gt;ゴーレム&lt;/li&gt;
+  &lt;li&gt;沸き潰し&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が課題。&lt;/p&gt;
+
+&lt;p&gt;地下が洞穴になってるっぽく下手に掘り下げると壊滅の危機があるため注意して進める。
+* 村人は割と積極的に投身自殺する…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;もう一箇所村があった気がするんだけど記憶が曖昧。&lt;br /&gt;
+探してみて、あればその村の保護にあたる。
+無ければブランチマイニング再開とネザー初探索と初期リスポン以外の拠点と各インフラの整備が行えればよい。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-1"&gt;メモ&lt;/h2&gt;
+
+&lt;p&gt;初回&lt;br /&gt;
+木材→作業台→石　と&lt;br /&gt;
+羊狩、サトウキビ収集、小麦収集 を分担  &lt;/p&gt;
+
+&lt;p&gt;屋内に必要なのは  &lt;/p&gt;
+
+&lt;p&gt;ベット&lt;em&gt;2&lt;br /&gt;
+Lチェスト&lt;/em&gt;2&lt;br /&gt;
+かまど&lt;em&gt;2&lt;br /&gt;
+作業台&lt;/em&gt;1  &lt;/p&gt;
+
+&lt;p&gt;＝縦2～3 奥3～5 横5～の家があるとよい。&lt;br /&gt;
+ベッド両端、ベッドから直角にチェスト、中央に作業台出入り口左右対称にカマド。  &lt;/p&gt;
+
+&lt;p&gt;まずチュートリアルやらせる&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Minecraft</title>
     <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/24/minecraft/"/>
@@ -604,52 +683,6 @@ http://app.famitsu.com/20140904_434758/&lt;/p&gt;
 ジャングルジャングルなワールドで移動手段というものが如何に重要か思い知らされたので、
 別ワールドで交通手段熟考した作りにしたい。&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Minecraft</title>
-    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/16/minecraft/"/>
-    <id>http://blog.url.com/blog/minecraft/2015/02/16/minecraft/</id>
-    <published>2015-02-16T00:00:00+09:00</published>
-    <updated>2015-02-16T17:18:27+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Twitterのフォロワーさんがやっていたのでやりたくなった。
-テラリアでトトロ作って以来&lt;/p&gt;
-
-&lt;p&gt;とりあえずテラリアのノウハウからして以下目標&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;拠点作成
-    &lt;ul&gt;
-      &lt;li&gt;とりあえずシンプルなのからシステム把握して徐々に拡張&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;素材入れ物倉庫作成&lt;/li&gt;
-  &lt;li&gt;素材探索
-    &lt;ol&gt;
-      &lt;li&gt;木&lt;/li&gt;
-      &lt;li&gt;石&lt;/li&gt;
-      &lt;li&gt;金属&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;機関作成
-    &lt;ol&gt;
-      &lt;li&gt;水&lt;/li&gt;
-      &lt;li&gt;植物&lt;/li&gt;
-      &lt;li&gt;動物&lt;/li&gt;
-      &lt;li&gt;溶岩&lt;/li&gt;
-      &lt;li&gt;モンスター&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;ベッド2 イス1 
-入れ物２+看板1　2row 2col
-庭、地下&lt;/p&gt;
-
-&lt;p&gt;→とりあえずリスポン地帯から30*30整地してなんかする。&lt;/p&gt;
 </content>
   </entry>
 </feed>

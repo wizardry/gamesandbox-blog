@@ -5,10 +5,104 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-02-26T00:00:00+09:00</updated>
+  <updated>2015-03-06T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/03/06/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/03/06/minecraft/</id>
+    <published>2015-03-06T00:00:00+09:00</published>
+    <updated>2015-03-06T15:25:07+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ブレイズトラップ及びゲートからトラップまでの安全経路確保完成&lt;/li&gt;
+  &lt;li&gt;各村への直線インフラ完成&lt;/li&gt;
+  &lt;li&gt;要塞攻略&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section-1"&gt;エンダーアイ収集&lt;/h2&gt;
+
+&lt;p&gt;エンダーアイ入手経路は下記2パターン&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;エンダーマンからのドロップ&lt;/li&gt;
+  &lt;li&gt;村人との交換&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;（他、洞窟からのチェスト入手もあるが確度が低すぎるため保留）&lt;/p&gt;
+
+&lt;h3 id="section-2"&gt;エンダーマンからのドロップ&lt;/h3&gt;
+
+&lt;p&gt;まずエンダーマンとのエンカウントが安定しない。
+夜は極力さばくなどを歩くことにするが期待薄&lt;/p&gt;
+
+&lt;h3 id="section-3"&gt;村人との交換&lt;/h3&gt;
+
+&lt;p&gt;村人交易レベル上げからしなくてはいけない。
+また、牧師のみで交易品の増殖施設を作成する必要がある。&lt;/p&gt;
+
+&lt;h2 id="section-4"&gt;村人交易メモ&lt;/h2&gt;
+
+&lt;p&gt;司祭（牧師）：エンダーアイ、エンチャント有
+鍛冶屋：ダイヤ各種の入手が可能
+農民：エメラルド増やしに。&lt;/p&gt;
+
+&lt;p&gt;## &lt;/p&gt;
+
+&lt;h2 id="section-5"&gt;メモ&lt;/h2&gt;
+
+&lt;p&gt;ビーコンほしい。ネザスケ倒すと良いらしい  &lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Minecraft</title>
+    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/03/02/minecraft/"/>
+    <id>http://blog.url.com/blog/minecraft/2015/03/02/minecraft/</id>
+    <published>2015-03-02T00:00:00+09:00</published>
+    <updated>2015-03-02T16:51:03+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;進捗&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;村４つとも保護終了。&lt;/li&gt;
+  &lt;li&gt;樹全種類の植林上完成&lt;/li&gt;
+  &lt;li&gt;ネザーゲート開通&lt;/li&gt;
+  &lt;li&gt;ブレイズトラップ作成途中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ネザーからの持ち帰りアイテムが整理不可能になってきたため拠点改築。&lt;br /&gt;
+敷地面積7倍ほどに。&lt;br /&gt;
+これにてLチェストが4-&amp;gt;15に。  &lt;/p&gt;
+
+&lt;h2 id="section-1"&gt;植林&lt;/h2&gt;
+
+&lt;p&gt;1回の伐採に１スタックドロップを目安に&lt;br /&gt;
+16本埋めれると楽&lt;br /&gt;
+3つ離しが何故か安定しなかった為4つ離しに。&lt;br /&gt;
+4*4埋めれたらいいので1種類あたり20マス四方の平面があるとよい。&lt;br /&gt;
+＝6スタックと16個土があればよい&lt;br /&gt;
+木-木のラインは埋めやすいように石にしているため、使った素材は
+石96個 、 土364 *4(樫、松、樺、ジャングル）&lt;/p&gt;
+
+&lt;h2 id="section-2"&gt;インフラ&lt;/h2&gt;
+&lt;p&gt;拠点-村の道を舗装したい。
+乗馬時のダメージを避けるため縦3マス維持。&lt;/p&gt;
+
+&lt;p&gt;## &lt;/p&gt;
+
+&lt;h2 id="section-3"&gt;メモ&lt;/h2&gt;
+
+&lt;p&gt;ビーコンほしい。ネザスケ倒すと良いらしい  &lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Minecraft</title>
     <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/26/minecraft/"/>
@@ -511,177 +605,6 @@ http://app.famitsu.com/20140904_434758/&lt;/p&gt;
 
 &lt;p&gt;水中建築
 http://app.famitsu.com/20140904_434758/&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Minecraft</title>
-    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/18/minecraft/"/>
-    <id>http://blog.url.com/blog/minecraft/2015/02/18/minecraft/</id>
-    <published>2015-02-18T00:00:00+09:00</published>
-    <updated>2015-02-18T15:56:17+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;前置&lt;/h2&gt;
-
-&lt;p&gt;現在作成しているワールドは3つ。&lt;/p&gt;
-
-&lt;h3 id="section-1"&gt;たけのこのさと&lt;/h3&gt;
-
-&lt;p&gt;初回から広い建造物を建てようとして死亡。&lt;/p&gt;
-
-&lt;h3 id="section-2"&gt;ぱんつ&lt;/h3&gt;
-
-&lt;p&gt;初期リスポーンがジャングル頂上。
-MAP7割埋めくらい
-村を増築した自宅。
-自宅から近鉱山まで道路舗装。&lt;/p&gt;
-
-&lt;p&gt;迷子になって放置。&lt;/p&gt;
-
-&lt;h3 id="section-3"&gt;りるむ&lt;/h3&gt;
-
-&lt;p&gt;初期リスポーンに大型拠点を作成且つ、開拓地までの道を舗装して迷いにくくするをモットーに新規作成したもの。
-初期リスポンは雪、付近は山と、謎に深い遺跡？&lt;/p&gt;
-
-&lt;p&gt;目標は下記
-・FF6リルムドットを作成する。
-・シナリオクリアする&lt;/p&gt;
-
-&lt;p&gt;暫くメインにする想定。&lt;/p&gt;
-
-&lt;h2 id="section-4"&gt;進捗&lt;/h2&gt;
-
-&lt;p&gt;初期リスポンから地下に拠点を構える。
-途中湖貫通して水浸しになってしまったりしたけれどもなんとか持ち直し。
-農林業を行う為に畑3列を作成。
-木の養殖は勉強中。&lt;/p&gt;
-
-&lt;p&gt;食料のために畜産もおこないたい。&lt;/p&gt;
-
-&lt;p&gt;優先順位は下記&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;食糧難の解決&lt;/li&gt;
-  &lt;li&gt;木材の簡易収集施設
-    &lt;ul&gt;
-      &lt;li&gt;ツルハシ、オノに必要&lt;/li&gt;
-      &lt;li&gt;木炭に必要&lt;/li&gt;
-      &lt;li&gt;たいまつに必要&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;鉱石収集
-    &lt;ul&gt;
-      &lt;li&gt;最地下へのアクセス（階段と直穴プール）&lt;/li&gt;
-      &lt;li&gt;拠点&lt;/li&gt;
-      &lt;li&gt;ブランチマイニング
-        &lt;ul&gt;
-          &lt;li&gt;ブランチはどう行うか&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id="section-5"&gt;メモ&lt;/h2&gt;
-
-&lt;p&gt;農業&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;小麦&lt;/li&gt;
-  &lt;li&gt;サトウキビ&lt;/li&gt;
-  &lt;li&gt;ニンジン&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;畜産業&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;牛（麦）&lt;/li&gt;
-  &lt;li&gt;羊（麦）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;植林&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;オーク&lt;/li&gt;
-  &lt;li&gt;ダークオーク&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;鉱石&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;高度は0-128 ＝ 128個ハシゴがあれば直通可？&lt;/li&gt;
-  &lt;li&gt;プール深度は4必要。&lt;/li&gt;
-  &lt;li&gt;降りる用と上が用が必要&lt;/li&gt;
-  &lt;li&gt;ハシゴは２マスないとつけれない？
-    &lt;ul&gt;
-      &lt;li&gt;縦２式 ３マスあけて１マス貫通がよい？&lt;/li&gt;
-      &lt;li&gt;溶岩が出てきたら？&lt;/li&gt;
-      &lt;li&gt;洞窟とぶつかったら？&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ブランチは 端で無い・端までいかないが拡張性がある 2点を考慮する。
-    &lt;ul&gt;
-      &lt;li&gt;地図端付近であれば端まで掘る&lt;/li&gt;
-      &lt;li&gt;真ん中付近の場合距離が短い端2点の方に四角形を徐々に大きくしていく形で掘る。
-        &lt;ul&gt;
-          &lt;li&gt;拠点から遠くなってきたら対角線付近にショートカットを掘れば良い。&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;拠点
-    &lt;ul&gt;
-      &lt;li&gt;カマド*5&lt;/li&gt;
-      &lt;li&gt;作業台*1&lt;/li&gt;
-      &lt;li&gt;ベッド&lt;/li&gt;
-      &lt;li&gt;カマド用溶岩置き場&lt;/li&gt;
-      &lt;li&gt;&lt;/li&gt;
-      &lt;li&gt;チェスト*10
-        &lt;ul&gt;
-          &lt;li&gt;各鉱石用*6
-  *　ツルハシ+スコップ&lt;/li&gt;
-          &lt;li&gt;松明と建築材料フルスロ&lt;/li&gt;
-          &lt;li&gt;生成後のアイテム用*2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="section-6"&gt;気付き&lt;/h2&gt;
-
-&lt;p&gt;拠点の天地は偶数マスでmin4マスが理想
-→チェストが開閉に縦２マス必要なため&lt;/p&gt;
-
-&lt;h2 id="section-7"&gt;メモ&lt;/h2&gt;
-
-&lt;p&gt;水中建築
-http://app.famitsu.com/20140904_434758/&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Minecraft</title>
-    <link rel="alternate" href="http://blog.url.com/blog/minecraft/2015/02/17/minecraft/"/>
-    <id>http://blog.url.com/blog/minecraft/2015/02/17/minecraft/</id>
-    <published>2015-02-17T00:00:00+09:00</published>
-    <updated>2015-02-17T13:02:12+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h2 id="section"&gt;わーるど１&lt;/h2&gt;
-
-&lt;p&gt;→30*30で家作ろうとしたら思いの外広くてもっと資材集め把握してからにしようと断念。&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;わーるど2&lt;/h2&gt;
-
-&lt;p&gt;初期リスポンがジャングル頂上。
-なんとかツリーハウスみたいなんつくるも羊いないし居ても落ちるし
-降りるのも一苦労だし、降りて歩いたら山になって山を越えたらジャングルでした。残念。
-ジャングルジャングルなワールドで移動手段というものが如何に重要か思い知らされたので、
-別ワールドで交通手段熟考した作りにしたい。&lt;/p&gt;
 
 </content>
   </entry>
